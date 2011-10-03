@@ -1,0 +1,820 @@
+fname;All
+WK;Kod województwa wg GUS
+PK;Kod powiatu wg GUS
+GK;Kod gminy wg GUS
+GT;Typ gminy
+PT;Typ powiatu
+KODMSWIA;Kod zwi¹zku JST wg MSWiA
+ROK;Rok okresu sprawozdawczego
+KWARTAL;Kwarta³
+DAT_SKW;Data sprawozdania
+DZIAL;Dzia³ klasyfikacji bud¿etowej
+ROZDZIAL;Rozdzia³ klasyfikacji bud¿etowej
+PAR;Paragraf klasyfikacji bud¿etowej
+PAR4;Finansowanie paragrafu - 4 cyfra paragrafu
+end;
+fname;Rb27s
+R1;Plan
+R2;Nale¿noœci
+R3;Potr¹cenia
+R4;Dochody wykonane
+R9;Dochody otrzymane
+R10;Saldo koñcowe - nale¿noœci pozosta³e do zap³aty - ogó³em
+R5;Saldo koñcowe - nale¿noœci pozosta³e do zap³aty - w tym zaleg³oœci
+R6;Saldo koñcowe - nadp³aty
+R7;Skutki obni¿enia górnych stawek podatków
+R8;Skutki udzielonych przez gminê ulg, odroczeñ, umo¿eñ, zwolnieñ, zaniechania poboru
+R11;Skutki decyzji wydanych przez organ podatkowy - pole nieu¿ywane od II kwarta³u 2006
+R11Z;Skutki decyzji wydanych przez organ podatkowy - umorzenie zaleg³oœci podatkowych
+R11R;Skutki decyzji wydanych przez organ podatkowy - roz³o¿enie na raty, odroczenie terminu p³atnoœci, zwolnienie z obowi¹zku pobrania, ograniczenia poboru
+end;
+fname;Rb28s
+R1;Plan
+R10;Zaanga¿owanie
+R4;Wydatki wykonane
+R11;Zobowi¹zania - ogó³em
+R12;Zobowi¹zania - wymagalne - pole nieu¿ywane od II kwarta³u 2006
+R9;Wydatki, które nie wygas³y z up³ywem roku bud¿etowego
+R12U;Zobowi¹zania - wymagalne powsta³e w latach ubieg³ych
+R12B;Zobowi¹zania - wymagalne powsta³e w roku bie¿¹cym
+R13;Wydatki, zrealizowane w ramach funduszu so³eckiego
+end;
+fname;Rb28sd
+D1P;Dotacja rozwojowa - plan
+D1W;Dotacja rozwojowa - wykonanie
+D2P;Dotacja rozwojowa udzielona przez samorz¹d województwa beneficjentom - plan
+D2W;Dotacja rozwojowa udzielona przez samorz¹d województwa beneficjentom - wykonanie
+D21P;Dotacja rozwojowa udzielona przez samorz¹d województwa gminom - plan
+D21W;Dotacja rozwojowa udzielona przez samorz¹d województwa gminom - wykonanie
+D22P;Dotacja rozwojowa udzielona przez samorz¹d województwa powiatom - plan
+D22W;Dotacja rozwojowa udzielona przez samorz¹d województwa powiatom - wykonanie
+D23P;Dotacja rozwojowa udzielona przez samorz¹d województwa zwi¹zkom jednostek samorz¹du terytorialnego - plan
+D23W;Dotacja rozwojowa udzielona przez samorz¹d województwa zwi¹zkom jednostek samorz¹du terytorialnego - wykonanie
+end;
+fname;Rbn
+N;Nale¿noœci - kwota nale¿noœci ogó³em.
+NKO;Nale¿noœci od d³u¿ników krajowych - ogó³em
+NKF;Nale¿noœci od d³u¿ników krajowych - sektora finansów publicznych
+NKR;Nale¿noœci od d³u¿ników krajowych - grupa I
+NKP;Nale¿noœci od d³u¿ników krajowych - Skarbu Pañstwa
+NKS;Nale¿noœci od d³u¿ników krajowych - grupa II
+NKU;Nale¿noœci od d³u¿ników krajowych - grupa III
+NG4;Nale¿noœci od d³u¿ników krajowych - grupa IV
+NKC;Nale¿noœci od d³u¿ników krajowych - banku centralnego
+NKK;Nale¿noœci od d³u¿ników krajowych - banków komercyjnych
+NZO;Nale¿noœci wobec wierzycieli zagranicznych - ogó³em
+NZZ;Nale¿noœci wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+NZF;Nale¿noœci wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+NIF;Nale¿noœci wobec wierzycieli krajowych - pozosta³ych krajowych instytucji finansowych
+NPN;Nale¿noœci wobec wierzycieli krajowych - przedsiêbiorstw niefinansowych
+NGD;Nale¿noœci wobec wierzycieli krajowych - gospodarstw domowych
+NIN;Nale¿noœci wobec wierzycieli krajowych - instytucji niekomercyjnych dzia³aj¹cych na rzecz gospodarstw domowych
+NSE;Nale¿noœci wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+NPZ;Nale¿noœci wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N1;Emisja papierów wartoœciowych - kwota zad³u¿enia ogó³em
+N1KO;Emisja papierów wartoœciowych(krajowa) - ogó³em
+N1KF;Emisja papierów wartoœciowych(krajowa) - sektor finansów publicznych
+N1KR;Emisja papierów wartoœciowych(krajowa) - grupa I
+N1KP;Emisja papierów wartoœciowych(krajowa) - Skarb Pañstwa
+N1KS;Emisja papierów wartoœciowych(krajowa) - grupa II
+N1KU;Emisja papierów wartoœciowych(krajowa) - grupa III
+N1G4;Emisja papierów wartoœciowych(krajowa) - grupa IV
+N1KC;Emisja papierów wartoœciowych(krajowa) - bank centralny
+N1KK;Emisja papierów wartoœciowych(krajowa) - banki komercyjne
+N1ZO;Emisja papierów wartoœciowych(zagraniczna) - ogó³em
+N1ZZ;Emisja papierów wartoœciowych(zagraniczna) - rz¹dy innych pañstw
+N1ZF;Emisja papierów wartoœciowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+N1IF;Emisja papierów wartoœciowych(krajowa) - pozosta³e krajowe instytucje finansowe
+N1PN;Emisja papierów wartoœciowych(krajowa) - przedsiêbiorstwa niefinansowe
+N1GD;Emisja papierów wartoœciowych(krajowa) - gospodarstwa domowe
+N1IN;Emisja papierów wartoœciowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N1SE;Emisja papierów wartoœciowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+N1PZ;Emisja papierów wartoœciowych(zagraniczna) - pozosta³e podmioty zagraniczne
+N11;Emisja papierów wartoœciowych d³ugoterminowych - kwota zad³u¿enia ogó³em
+N11KO;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - ogó³em
+N11KF;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - sektor finansów publicznych
+N11KR;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa I
+N11KP;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - Skarb Pañstwa
+N11KS;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa II
+N11KU;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa III
+N11G4;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa IV
+N11KC;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - bank centralny
+N11KK;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - banki komercyjne
+N11ZO;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - ogó³em
+N11ZZ;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - rz¹dy innych pañstw
+N11ZF;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+N11IF;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - pozosta³e krajowe instytucje finansowe
+N11PN;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - przedsiêbiorstwa niefinansowe
+N11GD;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - gospodarstwa domowe
+N11IN;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N11SE;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+N11PZ;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - pozosta³e podmioty zagraniczne
+N12;Emisja papierów wartoœciowych krótkoterminowych - kwota zad³u¿enia ogó³em
+N12KO;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - ogó³em
+N12KF;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - sektor finansów publicznych
+N12KR;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa I
+N12KP;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - Skarb Pañstwa
+N12KS;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa II
+N12KU;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa III
+N12G4;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa IV
+N12KC;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - bank centralny
+N12KK;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - banki komercyjne
+N12ZO;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - ogó³em
+N12ZZ;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - rz¹dy innych pañstw
+N12ZF;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+N12IF;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - pozosta³e krajowe instytucje finansowe
+N12PN;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - przedsiêbiorstwa niefinansowe
+N12GD;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - gospodarstwa domowe
+N12IN;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N12SE;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+N12PZ;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - pozosta³e podmioty zagraniczne
+N2;Kredyty i po¿yczki - kwota zad³u¿enia ogó³em
+N2KO;Kredyty i po¿yczki(krajowe) - ogó³em
+N2KF;Kredyty i po¿yczki(krajowe) - sektor finansów publicznych
+N2KR;Kredyty i po¿yczki(krajowe) - grupa I
+N2KP;Kredyty i po¿yczki(krajowe) - Skarb Pañstwa
+N2KS;Kredyty i po¿yczki(krajowe) - grupa II
+N2KU;Kredyty i po¿yczki(krajowe) - grupa III
+N2G4;Kredyty i po¿yczki(krajowe) - grupa IV
+N2KC;Kredyty i po¿yczki(krajowe) - bank centralny
+N2KK;Kredyty i po¿yczki(krajowe) - banki komercyjne
+N2ZO;Kredyty i po¿yczki(zagraniczne) - ogó³em
+N2ZZ;Kredyty i po¿yczki(zagraniczne) - rz¹dy innych pañstw
+N2ZF;Kredyty i po¿yczki(zagraniczne) - miêdzynarodowe instytucje finansowe
+N2IF;Kredyty i po¿yczki(krajowe) - pozosta³e krajowe instytucje finansowe
+N2PN;Kredyty i po¿yczki(krajowe) - przedsiêbiorstwa niefinansowe
+N2GD;Kredyty i po¿yczki(krajowe) - gospodarstwa domowe
+N2IN;Kredyty i po¿yczki(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N2SE;Kredyty i po¿yczki(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N2PZ;Kredyty i po¿yczki(zagraniczne) - pozosta³e podmioty zagraniczne
+N21;Kredyty i po¿yczki d³ugoterminowe - kwota zad³u¿enia ogó³em
+N21KO;Kredyty i po¿yczki d³ugoterminowe(krajowe) - ogó³em
+N21KF;Kredyty i po¿yczki d³ugoterminowe(krajowe) - sektor finansów publicznych
+N21KR;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa I
+N21KP;Kredyty i po¿yczki d³ugoterminowe(krajowe) - Skarb Pañstwa
+N21KS;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa II
+N21KU;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa III
+N21G4;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa IV
+N21KC;Kredyty i po¿yczki d³ugoterminowe(krajowe) - bank centralny
+N21KK;Kredyty i po¿yczki d³ugoterminowe(krajowe) - banki komercyjne
+N21ZO;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - ogó³em
+N21ZZ;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - rz¹dy innych pañstw
+N21ZF;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - miêdzynarodowe instytucje finansowe
+N21IF;Kredyty i po¿yczki d³ugoterminowe(krajowe) - pozosta³e krajowe instytucje finansowe
+N21PN;Kredyty i po¿yczki d³ugoterminowe(krajowe) - przedsiêbiorstwa niefinansowe
+N21GD;Kredyty i po¿yczki d³ugoterminowe(krajowe) - gospodarstwa domowe
+N21IN;Kredyty i po¿yczki d³ugoterminowe(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N21SE;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N21PZ;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - pozosta³e podmioty zagraniczne
+N22;Kredyty i po¿yczki krótkoterminowe - kwota zad³u¿enia ogó³em
+N22KO;Kredyty i po¿yczki krótkoterminowe(krajowe) - ogó³em
+N22KF;Kredyty i po¿yczki krótkoterminowe(krajowe) - sektor finansów publicznych
+N22KR;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa I
+N22KP;Kredyty i po¿yczki krótkoterminowe(krajowe) - Skarb Pañstwa
+N22KS;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa II
+N22KU;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa III
+N22G4;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa IV
+N22KC;Kredyty i po¿yczki krótkoterminowe(krajowe) - bank centralny
+N22KK;Kredyty i po¿yczki krótkoterminowe(krajowe) - banki komercyjne
+N22ZO;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - ogó³em
+N22ZZ;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - rz¹dy innych pañstw
+N22ZF;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - miêdzynarodowe instytucje finansowe
+N22IF;Kredyty i po¿yczki krótkoterminowe(krajowe) - pozosta³e krajowe instytucje finansowe
+N22PN;Kredyty i po¿yczki krótkoterminowe(krajowe) - przedsiêbiorstwa niefinansowe
+N22GD;Kredyty i po¿yczki krótkoterminowe(krajowe) - gospodarstwa domowe
+N22IN;Kredyty i po¿yczki krótkoterminowe(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N22SE;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N22PZ;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - pozosta³e podmioty zagraniczne
+N3;Depozyty - kwota zad³u¿enia ogó³em
+N3KO;Depozyty(krajowe) - ogó³em
+N3KF;Depozyty(krajowe) - sektor finansów publicznych
+N3KR;Depozyty(krajowe) - grupa I
+N3KP;Depozyty(krajowe) - Skarb Pañstwa
+N3KS;Depozyty(krajowe) - grupa II
+N3KU;Depozyty(krajowe) - grupa III
+N3G4;Depozyty(krajowe) - grupa IV
+N3KC;Depozyty(krajowe) - bank centralny
+N3KK;Depozyty(krajowe) - banki komercyjne
+N3ZO;Depozyty(zagraniczne) - ogó³em
+N3ZZ;Depozyty(zagraniczne) - rz¹dy innych pañstw
+N3ZF;Depozyty(zagraniczne) - miêdzynarodowe instytucje finansowe
+N3IF;Depozyty(krajowe) - pozosta³e krajowe instytucje finansowe
+N3PN;Depozyty(krajowe) - przedsiêbiorstwa niefinansowe
+N3GD;Depozyty(krajowe) - gospodarstwa domowe
+N3IN;Depozyty(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N3SE;Depozyty(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N3PZ;Depozyty(zagraniczne) - pozosta³e podmioty zagraniczne
+N31;Gotówka - kwota zad³u¿enia ogó³em
+N31KO;Gotówka(krajowa) - ogó³em
+N31KF;Gotówka(krajowa) - sektor finansów publicznych
+N31KR;Gotówka(krajowa) - grupa I
+N31KP;Gotówka(krajowa) - Skarb Pañstwa
+N31KS;Gotówka(krajowa) - grupa II
+N31KU;Gotówka(krajowa) - grupa III
+N31G4;Gotówka(krajowa) - grupa IV
+N31KC;Gotówka(krajowa) - bank centralny
+N31KK;Gotówka(krajowa) - banki komercyjne
+N31ZO;Gotówka(zagraniczna) - ogó³em
+N31ZZ;Gotówka(zagraniczna) - rz¹dy innych pañstw
+N31ZF;Gotówka(zagraniczna) - miêdzynarodowe instytucje finansowe
+N31IF;Gotówka(krajowa) - pozosta³e krajowa instytucje finansowe
+N31PN;Gotówka(krajowa) - przedsiêbiorstwa niefinansowe
+N31GD;Gotówka(krajowa) - gospodarstwa domowe
+N31IN;Gotówka(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N31SE;Gotówka(zagraniczna) - podmioty nale¿¹ce do strefy euro
+N31PZ;Gotówka(zagraniczna) - pozosta³e podmioty zagraniczne
+N32;Depozyty na ¿¹danie - kwota zad³u¿enia ogó³em
+N32KO;Depozyty na ¿¹danie(krajowe) - ogó³em
+N32KF;Depozyty na ¿¹danie(krajowe) - sektor finansów publicznych
+N32KR;Depozyty na ¿¹danie(krajowe) - grupa I
+N32KP;Depozyty na ¿¹danie(krajowe) - Skarb Pañstwa
+N32KS;Depozyty na ¿¹danie(krajowe) - grupa II
+N32KU;Depozyty na ¿¹danie(krajowe) - grupa III
+N32G4;Depozyty na ¿¹danie(krajowe) - grupa IV
+N32KC;Depozyty na ¿¹danie(krajowe) - bank centralny
+N32KK;Depozyty na ¿¹danie(krajowe) - banki komercyjne
+N32ZO;Depozyty na ¿¹danie(zagraniczne) - ogó³em
+N32ZZ;Depozyty na ¿¹danie(zagraniczne) - rz¹dy innych pañstw
+N32ZF;Depozyty na ¿¹danie(zagraniczne) - miêdzynarodowe instytucje finansowe
+N32IF;Depozyty na ¿¹danie(krajowe) - pozosta³e krajowe instytucje finansowe
+N32PN;Depozyty na ¿¹danie(krajowe) - przedsiêbiorstwa niefinansowe
+N32GD;Depozyty na ¿¹danie(krajowe) - gospodarstwa domowe
+N32IN;Depozyty na ¿¹danie(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N32SE;Depozyty na ¿¹danie(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N32PZ;Depozyty na ¿¹danie(zagraniczne) - pozosta³e podmioty zagraniczne
+N33;Depozyty terminowe - kwota zad³u¿enia ogó³em
+N33KO;Depozyty terminowe(krajowe) - ogó³em
+N33KF;Depozyty terminowe(krajowe) - sektor finansów publicznych
+N33KR;Depozyty terminowe(krajowe) - grupa I
+N33KP;Depozyty terminowe(krajowe) - Skarb Pañstwa
+N33KS;Depozyty terminowe(krajowe) - grupa II
+N33KU;Depozyty terminowe(krajowe) - grupa III
+N33G4;Depozyty terminowe(krajowe) - grupa IV
+N33KC;Depozyty terminowe(krajowe) - bank centralny
+N33KK;Depozyty terminowe(krajowe) - banki komercyjne
+N33ZO;Depozyty terminowe(zagraniczne) - ogó³em
+N33ZZ;Depozyty terminowe(zagraniczne) - rz¹dy innych pañstw
+N33ZF;Depozyty terminowe(zagraniczne) - miêdzynarodowe instytucje finansowe
+N33IF;Depozyty terminowe(krajowe) - pozosta³e krajowe instytucje finansowe
+N33PN;Depozyty terminowe(krajowe) - przedsiêbiorstwa niefinansowe
+N33GD;Depozyty terminowe(krajowe) - gospodarstwa domowe
+N33IN;Depozyty terminowe(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N33SE;Depozyty terminowe(zagraniczne) - podmioty nale¿¹ce do strefy euro
+N33PZ;Depozyty terminowe(zagraniczne) - pozosta³e podmioty zagraniczne
+end;
+fname;Rbn4
+N4;Nale¿noœci wymagalne - kwota zad³u¿enia ogó³em
+N4KO;Nale¿noœci wymagalne od d³u¿ników krajowych - ogó³em
+N4KF;Nale¿noœci wymagalne od d³u¿ników krajowych - sektora finansów publicznych
+N4KR;Nale¿noœci wymagalne od d³u¿ników krajowych - grupa I
+N4KP;Nale¿noœci wymagalne od d³u¿ników krajowych - Skarbu Pañstwa
+N4KS;Nale¿noœci wymagalne od d³u¿ników krajowych - grupa II
+N4KU;Nale¿noœci wymagalne od d³u¿ników krajowych - grupa III
+N4G4;Nale¿noœci wymagalne od d³u¿ników krajowych - grupa IV
+N4KC;Nale¿noœci wymagalne od d³u¿ników krajowych - banku centralnego
+N4KK;Nale¿noœci wymagalne od d³u¿ników krajowych - banków komercyjnych
+N4ZO;Nale¿noœci wymagalne wobec wierzycieli zagranicznych - ogó³em
+N4ZZ;Nale¿noœci wymagalne wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N4ZF;Nale¿noœci wymagalne wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N4IF;Nale¿noœci wymagalne od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N4PN;Nale¿noœci wymagalne od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N4GD;Nale¿noœci wymagalne od d³u¿ników krajowych - gospodarstwa domowe
+N4IN;Nale¿noœci wymagalne od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N4SE;Nale¿noœci wymagalne wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N4PZ;Nale¿noœci wymagalne wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N41;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug - kwota nale¿noœci ogó³em
+N41KO;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - ogó³em
+N41KF;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - sektora finansów publicznych
+N41KR;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa I
+N41KP;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - Skarbu Pañstwa
+N41KS;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa II
+N41KU;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa III
+N41G4;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa IV
+N41KC;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - banku centralnego
+N41KK;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - banków komercyjnych
+N41ZO;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - ogó³em
+N41ZZ;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N41ZF;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N41IF;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N41PN;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N41GD;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - gospodarstwa domowe
+N41IN;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N41SE;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N41PZ;Nale¿noœci wymagalne z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N42;Nale¿noœci wymagalne pozosta³e - kwota nale¿noœci ogó³em
+N42KO;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - ogó³em
+N42KF;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - sektora finansów publicznych
+N42KR;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - grupa I
+N42KP;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - Skarbu Pañstwa
+N42KS;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - grupa II
+N42KU;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - grupa III
+N42G4;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - grupa IV
+N42KC;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - banku centralnego
+N42KK;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - banków komercyjnych
+N42ZO;Nale¿noœci wymagalne pozosta³e wobec wierzycieli zagranicznych - ogó³em
+N42ZZ;Nale¿noœci wymagalne pozosta³e wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N42ZF;Nale¿noœci wymagalne pozosta³e wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N42IF;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N42PN;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N42GD;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - gospodarstwa domowe
+N42IN;Nale¿noœci wymagalne pozosta³e od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N42SE;Nale¿noœci wymagalne pozosta³e wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N42PZ;Nale¿noœci wymagalne pozosta³e wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N5;Pozosta³e nale¿noœci - kwota nale¿noœci ogó³em
+N5KO;Pozosta³e nale¿noœci od d³u¿ników krajowych - ogó³em
+N5KF;Pozosta³e nale¿noœci od d³u¿ników krajowych - sektora finansów publicznych
+N5KR;Pozosta³e nale¿noœci od d³u¿ników krajowych - grupa I
+N5KP;Pozosta³e nale¿noœci od d³u¿ników krajowych - Skarbu Pañstwa
+N5KS;Pozosta³e nale¿noœci od d³u¿ników krajowych - grupa II
+N5KU;Pozosta³e nale¿noœci od d³u¿ników krajowych - grupa III
+N5G4;Pozosta³e nale¿noœci od d³u¿ników krajowych - grupa IV
+N5KC;Pozosta³e nale¿noœci od d³u¿ników krajowych - banku centralnego
+N5KK;Pozosta³e nale¿noœci od d³u¿ników krajowych - banków komercyjnych
+N5ZO;Pozosta³e nale¿noœci wobec wierzycieli zagranicznych - ogó³em
+N5ZZ;Pozosta³e nale¿noœci wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N5ZF;Pozosta³e nale¿noœci wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N5IF;Pozosta³e nale¿noœci od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N5PN;Pozosta³e nale¿noœci od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N5GD;Pozosta³e nale¿noœci od d³u¿ników krajowych - gospodarstwa domowe
+N5IN;Pozosta³e nale¿noœci od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N5SE;Pozosta³e nale¿noœci wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N5PZ;Pozosta³e nale¿noœci wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N51;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug - kwota nale¿noœci ogó³em
+N51KO;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - ogó³em
+N51KF;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - sektora finansów publicznych
+N51KR;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa I
+N51KP;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - Skarbu Pañstwa
+N51KS;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa II
+N51KU;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa III
+N51G4;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - grupa IV
+N51KC;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - banku centralnego
+N51KK;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - banków komercyjnych
+N51ZO;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - ogó³em
+N51ZZ;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N51ZF;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N51IF;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N51PN;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N51GD;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - gospodarstwa domowe
+N51IN;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N51SE;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N51PZ;Pozosta³e nale¿noœci z tytu³u dostaw towarów i us³ug wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N52;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. - kwota nale¿noœci ogó³em
+N52KO;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - ogó³em
+N52KF;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - sektora finansów publicznych
+N52KR;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - grupa I
+N52KP;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - Skarbu Pañstwa
+N52KS;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - grupa II
+N52KU;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - grupa III
+N52G4;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - grupa IV
+N52KC;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - banku centralnego
+N52KK;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - banków komercyjnych
+N52ZO;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. wobec wierzycieli zagranicznych - ogó³em
+N52ZZ;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N52ZF;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N52IF;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N52PN;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N52GD;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - gospodarstwa domowe
+N52IN;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N52SE;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N52PZ;Pozosta³e nale¿noœci z tytu³u podatków i sk³adek na ubezpieczenia spo³. wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+N53;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej - kwota nale¿noœci ogó³em
+N53KO;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - ogó³em
+N53KF;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - sektora finansów publicznych
+N53KR;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - grupa I
+N53KP;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - Skarbu Pañstwa
+N53KS;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - grupa II
+N53KU;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - grupa III
+N53G4;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - grupa IV
+N53KC;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - banku centralnego
+N53KK;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - banków komercyjnych
+N53ZO;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej wobec wierzycieli zagranicznych - ogó³em
+N53ZZ;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+N53ZF;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+N53IF;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - pozosta³e krajowe instytucje finansowe
+N53PN;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - przedsiêbiorstwa niefinansowe
+N53GD;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - gospodarstwa domowe
+N53IN;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej od d³u¿ników krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych
+N53SE;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+N53PZ;Pozosta³e nale¿noœci z tytu³u innych ni¿ wymienione powy¿ej wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+end;
+fname;Rbnpg
+B1O;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - ogó³em
+B1FP;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec sektora finansów publicznych
+B1G1;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy I
+B1G2;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy II
+B1G3;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy III
+B1G4;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy IV
+B1PP;Nale¿noœæ g³ówna z tytu³u udzielonych gwarancji i porêczeñ - wobec pozosta³ych podmiotów
+B2O;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - ogó³em
+B2FP;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec sektora finansów publicznych
+B2G1;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy I
+B2G2;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy II
+B2G3;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy III
+B2G4;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec jednostek grupy IV
+B2PP;Odsetki ustawowe od nale¿noœci g³ównej z tytu³u udzielonych gwarancji i porêczeñ - wobec pozosta³ych podmiotów
+B3O;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - ogó³em
+B3FP;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec sektora finansów publicznych
+B3G1;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec jednostek grupy I
+B3G2;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec jednostek grupy II
+B3G3;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec jednostek grupy III
+B3G4;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec jednostek grupy IV
+B3PP;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ i gwarancji (wydatki) - wobec pozosta³ych podmiotów
+B4O;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - ogó³em
+B4FP;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec sektora finansów publicznych
+B4G1;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec jednostek grupy I
+B4G2;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec jednostek grupy II
+B4G3;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec jednostek grupy III
+B4G4;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec jednostek grupy IV
+B4PP;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec pozosta³ych podmiotów
+end;
+fname;Rbnds
+AP;Dochody ogó³em - plan
+AW;Dochody ogó³em - wykonanie
+BP;Wydatki ogó³em - plan
+BW;Wydatki ogó³em - wykonanie
+B3P;Wydatki bie¿¹ce - plan
+B3W;Wydatki bie¿¹ce - wykonanie
+B1P;Wydatki maj¹tkowe - plan
+B1W;Wydatki maj¹tkowe - wykonanie
+CP;Nadwy¿ka/deficyt - plan
+CW;Nadwy¿ka/deficyt - wykonanie
+DP;Finansowanie - plan
+DW;Finansowanie - wykonanie
+D1P;Przychody ogó³em - plan
+D1W;Przychody - wykonanie
+D11P;Kredyty i po¿yczki - plan
+D11W;Kredyty i po¿yczki - wykonanie
+D111P;Kredyty i po¿yczki na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D111W;Kredyty i po¿yczki na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D1111P;Po¿yczki na prefinansowanie programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z bud¿etu - plan
+D1111W;Po¿yczki na prefinansowanie programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z bud¿etu - wykonanie
+D112P;Po¿yczki na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan(pole historyczne)
+D112W;Po¿yczki na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie(pole historyczne)
+D12P;Sp³ata po¿yczek udzielonych - plan
+D12W;Sp³ata po¿yczek udzielonych - wykonanie
+D13P;Nadwy¿ka z lat ubieg³ych - plan
+D13W;Nadwy¿ka z lat ubieg³ych - wykonanie
+D131P;Œrodki na pokrycie deficytu - plan
+D131W;Œrodki na pokrycie deficytu - wykonanie
+D14P;Papiery wartoœciowe - plan
+D14W;Papiery wartoœciowe - wykonanie
+D141P;Papiery wartoœciowe na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D141W;Papiery wartoœciowe na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D142P;Papiery wartoœciowe na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan(pole historyczne)
+D142W;Papiery wartoœciowe na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie(pole historyczne)
+D15P;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych - plan
+D15W;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych - wykonanie
+D151P;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D151W;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D152P;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan
+D152W;Obligacje jednostek samorz¹dowych oraz zwi¹zków komunalnych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie
+D16P;Prywatyzacja maj¹tku jst - plan
+D16W;Prywatyzacja maj¹tku jst - wykonanie
+D17P;Inne Ÿród³a - plan
+D17W;Inne Ÿród³a - wykonanie
+D171P;Œrodki na pokrycie deficytu - plan
+D171W;Œrodki na pokrycie deficytu - wykonanie
+D2P;Rozchody ogó³em - plan
+D2W;Rozchody ogó³em - wykonanie
+D21P;Sp³aty kredytów i po¿yczek - plan
+D21W;Sp³aty kredytów i po¿yczek - wykonanie
+D211P;Sp³aty kredytów i po¿yczek na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D211W;Sp³aty kredytów i po¿yczek na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D2111P;Sp³aty po¿yczek na prefinansowanie programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymanych z bud¿etu pañstwa - plan
+D2111W;Sp³aty po¿yczek na prefinansowanie programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymanych z bud¿etu pañstwa - wykonanie
+D212P;Sp³aty po¿yczek na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan(pole historyczne)
+D212W;Sp³aty po¿yczek na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie(pole historyczne)
+D22P;Po¿yczki (udzielone) - plan
+D22W;Po¿yczki (udzielone) - wykonanie
+D23P;Lokaty w bankach - plan
+D23W;Lokaty w bankach - wykonanie
+D231P;Lokaty w bankach na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci - plan
+D231W;Lokaty w bankach na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci - wykonanie
+D24P;Wykup papierów wartoœciowych - plan
+D24W;Wykup papierów wartoœciowych - wykonanie
+D241P;Wykup papierów wartoœciowych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D241W;Wykup papierów wartoœciowych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D242P;Wykup papierów wartoœciowych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan(pole historyczne)
+D242W;Wykup papierów wartoœciowych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie(pole historyczne)
+D25P;Wykup obligacji samorz¹dowych - plan
+D25W;Wykup obligacji samorz¹dowych - wykonanie
+D251P;Wykup obligacji samorz¹dowych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - plan
+D251W;Wykup obligacji samorz¹dowych na realizacjê programów i projektów realizowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci UE - wykonanie
+D252P;Wykup obligacji samorz¹dowych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - plan(pole historyczne)
+D252W;Wykup obligacji samorz¹dowych na realizacjê programów i projektów finansowanych z udzia³em œrodków pochodz¹cych z funduszy strukturalnych i Funduszu Spójnoœci, otrzymane z innych Ÿróde³ - wykonanie(pole historyczne)
+D26P;Inne cele - plan
+D26W;Inne cele - wykonanie
+end;
+fname;Rbz
+E;Zobowi¹zania wed³ug tytu³ów d³u¿nych - kwota zad³u¿enia ogó³em.
+EKO;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - ogó³em
+EKF;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - sektor finansów publicznych
+EKR;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - grupa I
+EKP;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - Skarb Pañstwa
+EKS;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - grupa II
+EKU;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - grupa III
+EG4;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - grupa IV
+EKC;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - bank centralny
+EKK;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - banki komercyjne
+EZO;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli zagranicznych - ogó³em
+EZZ;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli zagranicznych - rz¹dy innych pañstw
+EZF;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli zagranicznych - miêdzynarodowe instytucje finansowe
+EIF;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - pozosta³e krajowych instytucje finansowe
+EPN;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - przedsiêbiorstwa niefinansowe
+EGD;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - gospodarstwa domowe
+EIN;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli krajowych - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+ESE;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli zagranicznych - podmioty nale¿¹ce do strefy euro
+EPZ;Zobowi¹zania wed³ug tytu³ów d³u¿nych wobec wierzycieli zagranicznych - pozosta³e podmioty zagraniczne
+E1;Emisja papierów wartoœciowych - kwota zad³u¿enia ogó³em.
+E1KO;Emisja papierów wartoœciowych(krajowa) - ogó³em
+E1KF;Emisja papierów wartoœciowych(krajowa) - sektor finansów publicznych
+E1KR;Emisja papierów wartoœciowych(krajowa) - grupa I
+E1KP;Emisja papierów wartoœciowych(krajowa) - Skarb Pañstwa
+E1KS;Emisja papierów wartoœciowych(krajowa) - grupa II
+E1KU;Emisja papierów wartoœciowych(krajowa) - grupa III
+E1G4;Emisja papierów wartoœciowych(krajowa) - grupa IV
+E1KC;Emisja papierów wartoœciowych(krajowa) - bank centralnego
+E1KK;Emisja papierów wartoœciowych(krajowa) - banki komercyjne
+E1ZO;Emisja papierów wartoœciowych(zagraniczna) - ogó³em
+E1ZZ;Emisja papierów wartoœciowych(zagraniczna) - rz¹dy innych pañstw
+E1ZF;Emisja papierów wartoœciowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+E1IF;Emisja papierów wartoœciowych(krajowa) - pozosta³e krajowe instytucje finansowe
+E1PN;Emisja papierów wartoœciowych(krajowa) - przedsiêbiorstwa niefinansowe
+E1GD;Emisja papierów wartoœciowych(krajowa) - gospodarstwa domowe
+E1IN;Emisja papierów wartoœciowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E1SE;Emisja papierów wartoœciowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+E1PZ;Emisja papierów wartoœciowych(zagraniczna) - pozosta³e podmioty zagraniczne
+E11;Emisja papierów wartoœciowych d³ugoterminowych - kwota zad³u¿enia ogó³em.
+E11KO;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - ogó³em
+E11KF;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - sektor finansów publicznych
+E11KR;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa I
+E11KP;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - Skarb Pañstwa
+E11KS;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa II
+E11KU;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa III
+E11G4;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - grupa IV
+E11KC;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - bank centralnego
+E11KK;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - banki komercyjne
+E11ZO;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - ogó³em
+E11ZZ;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - rz¹dy innych pañstw
+E11ZF;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+E11IF;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - pozosta³e krajowe instytucje finansowe
+E11PN;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - przedsiêbiorstwa niefinansowe
+E11GD;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - gospodarstwa domowe
+E11IN;Emisja papierów wartoœciowych d³ugoterminowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E11SE;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+E11PZ;Emisja papierów wartoœciowych d³ugoterminowych(zagraniczna) - pozosta³e podmioty zagraniczne
+E12;Emisja papierów wartoœciowych krótkoterminowych - kwota zad³u¿enia ogó³em.
+E12KO;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - ogó³em
+E12KF;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - sektor finansów publicznych
+E12KR;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa I
+E12KP;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - Skarb Pañstwa
+E12KS;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa II
+E12KU;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa III
+E12G4;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - grupa IV
+E12KC;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - bank centralnego
+E12KK;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - banki komercyjne
+E12ZO;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - ogó³em
+E12ZZ;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - rz¹dy innych pañstw
+E12ZF;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - miêdzynarodowe instytucje finansowe
+E12IF;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - pozosta³e krajowe instytucje finansowe
+E12PN;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - przedsiêbiorstwa niefinansowe
+E12GD;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - gospodarstwa domowe
+E12IN;Emisja papierów wartoœciowych krótkoterminowych(krajowa) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E12SE;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - podmioty nale¿¹ce do strefy euro
+E12PZ;Emisja papierów wartoœciowych krótkoterminowych(zagraniczna) - pozosta³e podmioty zagraniczne
+E2;Kredyty i po¿yczki - kwota zad³u¿enia ogó³em.
+E2KO;Kredyty i po¿yczki(krajowe) - ogó³em
+E2KF;Kredyty i po¿yczki(krajowe) - sektor finansów publicznych
+E2KR;Kredyty i po¿yczki(krajowe) - grupa I
+E2KP;Kredyty i po¿yczki(krajowe) - Skarb Pañstwa
+E2KS;Kredyty i po¿yczki(krajowe) - grupa II
+E2KU;Kredyty i po¿yczki(krajowe) - grupa III
+E2G4;Kredyty i po¿yczki(krajowe) - grupa IV
+E2KC;Kredyty i po¿yczki(krajowe) - bank centralnego
+E2KK;Kredyty i po¿yczki(krajowe) - banki komercyjne
+E2ZO;Kredyty i po¿yczki(zagraniczne) - ogó³em
+E2ZZ;Kredyty i po¿yczki(zagraniczne) - rz¹dy innych pañstw
+E2ZF;Kredyty i po¿yczki(zagraniczne) - miêdzynarodowe instytucje finansowe
+E2IF;Kredyty i po¿yczki(krajowe) - pozosta³e krajowe instytucje finansowe
+E2PN;Kredyty i po¿yczki(krajowe) - przedsiêbiorstwa niefinansowe
+E2GD;Kredyty i po¿yczki(krajowe) - gospodarstwa domowe
+E2IN;Kredyty i po¿yczki(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E2SE;Kredyty i po¿yczki(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E2PZ;Kredyty i po¿yczki(zagraniczne) - pozosta³e podmioty zagraniczne
+E21;Kredyty i po¿yczki d³ugoterminowe - kwota zad³u¿enia ogó³em.
+E21KO;Kredyty i po¿yczki d³ugoterminowe(krajowe) - ogó³em
+E21KF;Kredyty i po¿yczki d³ugoterminowe(krajowe) - sektor finansów publicznych
+E21KR;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa I
+E21KP;Kredyty i po¿yczki d³ugoterminowe(krajowe) - Skarb Pañstwa
+E21KS;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa II
+E21KU;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa III
+E21G4;Kredyty i po¿yczki d³ugoterminowe(krajowe) - grupa IV
+E21KC;Kredyty i po¿yczki d³ugoterminowe(krajowe) - bank centralnego
+E21KK;Kredyty i po¿yczki d³ugoterminowe(krajowe) - banki komercyjne
+E21ZO;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - ogó³em
+E21ZZ;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - rz¹dy innych pañstw
+E21ZF;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - miêdzynarodowe instytucje finansowe
+E21IF;Kredyty i po¿yczki d³ugoterminowe(krajowe) - pozosta³e krajowe instytucje finansowe
+E21PN;Kredyty i po¿yczki d³ugoterminowe(krajowe) - przedsiêbiorstwa niefinansowe
+E21GD;Kredyty i po¿yczki d³ugoterminowe(krajowe) - gospodarstwa domowe
+E21IN;Kredyty i po¿yczki d³ugoterminowe(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E21SE;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E21PZ;Kredyty i po¿yczki d³ugoterminowe(zagraniczne) - pozosta³e podmioty zagraniczne
+E22;Kredyty i po¿yczki krótkoterminowe - kwota zad³u¿enia ogó³em.
+E22KO;Kredyty i po¿yczki krótkoterminowe(krajowe) - ogó³em
+E22KF;Kredyty i po¿yczki krótkoterminowe(krajowe) - sektor finansów publicznych
+E22KR;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa I
+E22KP;Kredyty i po¿yczki krótkoterminowe(krajowe) - Skarb Pañstwa
+E22KS;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa II
+E22KU;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa III
+E22G4;Kredyty i po¿yczki krótkoterminowe(krajowe) - grupa IV
+E22KC;Kredyty i po¿yczki krótkoterminowe(krajowe) - bank centralnego
+E22KK;Kredyty i po¿yczki krótkoterminowe(krajowe) - banki komercyjne
+E22ZO;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - ogó³em
+E22ZZ;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - rz¹dy innych pañstw
+E22ZF;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - miêdzynarodowe instytucje finansowe
+E22IF;Kredyty i po¿yczki krótkoterminowe(krajowe) - pozosta³e krajowe instytucje finansowe
+E22PN;Kredyty i po¿yczki krótkoterminowe(krajowe) - przedsiêbiorstwa niefinansowe
+E22GD;Kredyty i po¿yczki krótkoterminowe(krajowe) - gospodarstwa domowe
+E22IN;Kredyty i po¿yczki krótkoterminowe(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E22SE;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E22PZ;Kredyty i po¿yczki krótkoterminowe(zagraniczne) - pozosta³e podmioty zagraniczne
+E3;Przyjête depozyty - kwota zad³u¿enia ogó³em.
+E3KO;Przyjête depozyty(krajowe) - ogó³em
+E3KF;Przyjête depozyty(krajowe) - sektor finansów publicznych
+E3KR;Przyjête depozyty(krajowe) - grupa I
+E3KP;Przyjête depozyty(krajowe) - Skarb Pañstwa
+E3KS;Przyjête depozyty(krajowe) - grupa II
+E3KU;Przyjête depozyty(krajowe) - grupa III
+E3G4;Przyjête depozyty(krajowe) - grupa IV
+E3KC;Przyjête depozyty(krajowe) - bank centralnego
+E3KK;Przyjête depozyty(krajowe) - banki komercyjne
+E3ZO;Przyjête depozyty(zagraniczne) - ogó³em
+E3ZZ;Przyjête depozyty(zagraniczne) - rz¹dy innych pañstw
+E3ZF;Przyjête depozyty(zagraniczne) - miêdzynarodowe instytucje finansowe
+E3IF;Przyjête depozyty(krajowe) - pozosta³e krajowe instytucje finansowe
+E3PN;Przyjête depozyty(krajowe) - przedsiêbiorstwa niefinansowe
+E3GD;Przyjête depozyty(krajowe) - gospodarstwa domowe
+E3IN;Przyjête depozyty(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E3SE;Przyjête depozyty(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E3PZ;Przyjête depozyty(zagraniczne) - pozosta³e podmioty zagraniczne
+E4;Wymagalne zobowi¹zania - kwota zad³u¿enia ogó³em.
+E4KO;Wymagalne zobowi¹zania(krajowe) - ogó³em
+E4KF;Wymagalne zobowi¹zania(krajowe) - sektor finansów publicznych
+E4KR;Wymagalne zobowi¹zania(krajowe) - grupa I
+E4KP;Wymagalne zobowi¹zania(krajowe) - Skarb Pañstwa
+E4KS;Wymagalne zobowi¹zania(krajowe) - grupa II
+E4KU;Wymagalne zobowi¹zania(krajowe) - grupa III
+E4G4;Wymagalne zobowi¹zania(krajowe) - grupa IV
+E4KC;Wymagalne zobowi¹zania(krajowe) - bank centralnego
+E4KK;Wymagalne zobowi¹zania(krajowe) - banki komercyjne
+E4ZO;Wymagalne zobowi¹zania(zagraniczne) - ogó³em
+E4ZZ;Wymagalne zobowi¹zania(zagraniczne) - rz¹dy innych pañstw
+E4ZF;Wymagalne zobowi¹zania(zagraniczne) - miêdzynarodowe instytucje finansowe
+E4IF;Wymagalne zobowi¹zania(krajowe) - pozosta³e krajowe instytucje finansowe
+E4PN;Wymagalne zobowi¹zania(krajowe) - przedsiêbiorstwa niefinansowe
+E4GD;Wymagalne zobowi¹zania(krajowe) - gospodarstwa domowe
+E4IN;Wymagalne zobowi¹zania(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E4SE;Wymagalne zobowi¹zania(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E4PZ;Wymagalne zobowi¹zania(zagraniczne) - pozosta³e podmioty zagraniczne
+E41;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug - kwota zad³u¿enia ogó³em.
+E41KO;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - ogó³em
+E41KF;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - sektor finansów publicznych
+E41KR;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - grupa I
+E41KP;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - Skarb Pañstwa
+E41KS;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - grupa II
+E41KU;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - grupa III
+E41G4;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - grupa IV
+E41KC;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - bank centralnego
+E41KK;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - banki komercyjne
+E41ZO;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(zagraniczne) - ogó³em
+E41ZZ;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(zagraniczne) - rz¹dy innych pañstw
+E41ZF;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(zagraniczne) - miêdzynarodowe instytucje finansowe
+E41IF;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - pozosta³e krajowe instytucje finansowe
+E41PN;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - przedsiêbiorstwa niefinansowe
+E41GD;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - gospodarstwa domowe
+E41IN;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E41SE;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E41PZ;Wymagalne zobowi¹zania z tytu³u dostaw towarów i us³ug(zagraniczne) - pozosta³e podmioty zagraniczne
+E42;Wymagalne zobowi¹zania pozosta³e - kwota zad³u¿enia ogó³em.
+E42KO;Wymagalne zobowi¹zania pozosta³e(krajowe) - ogó³em
+E42KF;Wymagalne zobowi¹zania pozosta³e(krajowe) - sektor finansów publicznych
+E42KR;Wymagalne zobowi¹zania pozosta³e(krajowe) - grupa I
+E42KP;Wymagalne zobowi¹zania pozosta³e(krajowe) - Skarb Pañstwa
+E42KS;Wymagalne zobowi¹zania pozosta³e(krajowe) - grupa II
+E42KU;Wymagalne zobowi¹zania pozosta³e(krajowe) - grupa III
+E42G4;Wymagalne zobowi¹zania pozosta³e(krajowe) - grupa IV
+E42KC;Wymagalne zobowi¹zania pozosta³e(krajowe) - bank centralnego
+E42KK;Wymagalne zobowi¹zania pozosta³e(krajowe) - banki komercyjne
+E42ZO;Wymagalne zobowi¹zania pozosta³e(zagraniczne) - ogó³em
+E42ZZ;Wymagalne zobowi¹zania pozosta³e(zagraniczne) - rz¹dy innych pañstw
+E42ZF;Wymagalne zobowi¹zania pozosta³e(zagraniczne) - miêdzynarodowe instytucje finansowe
+E42IF;Wymagalne zobowi¹zania pozosta³e(krajowe) - pozosta³e krajowe instytucje finansowe
+E42PN;Wymagalne zobowi¹zania pozosta³e(krajowe) - przedsiêbiorstwa niefinansowe
+E42GD;Wymagalne zobowi¹zania pozosta³e(krajowe) - gospodarstwa domowe
+E42IN;Wymagalne zobowi¹zania pozosta³e(krajowe) - instytucje niekomercyjne dzia³aj¹ce na rzecz gospodarstw domowych.
+E42SE;Wymagalne zobowi¹zania pozosta³e(zagraniczne) - podmioty nale¿¹ce do strefy euro
+E42PZ;Wymagalne zobowi¹zania pozosta³e(zagraniczne) - pozosta³e podmioty zagraniczne
+end;
+fname;Rbzkp
+LP;Liczba porz¹dkowa
+KPB;Po¿yczki z bud¿etu pañstwa - ogó³em
+KPBD;Po¿yczki z bud¿etu pañstwa d³ugoterminowe - ogó³em
+KPI;Kredyty i po¿yczki z innych Ÿróde³ - ogó³em
+KPID;Kredyty i po¿yczki z innych Ÿróde³ d³ugoterminowe - ogó³em
+KPB1;Po¿yczki z bud¿etu pañstwa na wspó³finansowanie (udzia³ w³asny)
+KPB1D;Po¿yczki z bud¿etu pañstwa na wspó³finansowanie (udzia³ w³asny) - d³ugoterminowe
+KPI1;Kredyty i po¿yczki z innych Ÿróde³ na wspó³finansowanie (udzia³ w³asny)
+KPI1D;Kredyty i po¿yczki z innych Ÿróde³ na wspó³finansowanie (udzia³ w³asny) - d³ugoterminowe
+KPB2;Po¿yczki z bud¿etu pañstwa na pokrycie wydatków unijnych
+KPB2D;Po¿yczki z bud¿etu pañstwa na pokrycie wydatków unijnych - d³ugoterminowe
+KPI2;Kredyty i po¿yczki z innych Ÿróde³ na pokrycie wydatków unijnych
+KPI2D;Kredyty i po¿yczki z innych Ÿróde³ na pokrycie wydatków unijnych - d³ugoterminowe
+end;
+fname;Rbzpg
+F2;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - ogó³em
+F2F;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec sektora finansów publicznych
+F2R;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy I
+F2P;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec Skarbu Pañstwa
+F2S;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy II
+F2U;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy III
+F2G4;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy IV
+F2PP;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec pozosta³ych podmiotów
+F7;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - ogó³em
+F7F;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec sektora finansów publicznych
+F7R;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec grupy I
+F7P;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec Skarbu Pañstwa
+F7S;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec grupy II
+F7U;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec grupy III
+F7G4;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec grupy IV
+F7PP;Wartoœæ nominalna niewymagalnych zobowi¹zañ z tytu³u porêczeñ i gwarancji przypadaj¹cych do sp³aty w danym roku bud¿etowym - wobec pozosta³ych podmiotów
+F8;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - ogó³em
+F8F;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec sektora finansów publicznych
+F8R;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy I
+F8P;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec Skarbu Pañstwa
+F8S;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy II
+F8U;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy III
+F8G4;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy IV
+F8PP;Wartoœæ nominalna wymagalnych zobowi¹zañ z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec pozosta³ych podmiotów
+F9;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - ogó³em
+F9F;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec sektora finansów publicznych
+F9R;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy I
+F9P;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec Skarbu Pañstwa
+F9S;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy II
+F9U;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy III
+F9G4;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec grupy IV
+F9PP;Wartoœæ wierzytelnoœci z tytu³u udzielonych porêczeñ i gwarancji na koniec okresu sprawozdawczego - wobec pozosta³ych podmiotów
+F10;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - ogó³em
+F10F;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec sektora finansów publicznych
+F10R;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec grupy I
+F10P;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec Skarbu Pañstwa
+F10S;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec grupy II
+F10U;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec grupy III
+F10G4;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec grupy IV
+F10PP;Wartoœæ sp³at dokonanych w okresie sprawozdawczym za d³u¿ników z tytu³u udzielonych porêczeñ lub gwarancji (wydatki) - wobec pozosta³ych podmiotów
+F11;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - ogó³em
+F11F;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec sektora finansów publicznych
+F11R;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec grupy I
+F11P;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec Skarbu Pañstwa
+F11S;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec grupy II
+F11U;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec grupy III
+F11G4;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec grupy IV
+F11PP;Kwota odzyskanych wierzytelnoœci w okresie sprawozdawczym od d³u¿ników z tytu³u porêczeñ lub gwarancji (dochody) - wobec pozosta³ych podmiotów
+F12;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - ogó³em
+F12F;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec sektora finansów publicznych
+F12R;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec grupy I
+F12P;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec Skarbu Pañstwa
+F12S;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec grupy II
+F12U;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec grupy III
+F12G4;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec grupy IV
+F12PP;Wartoœæ porêczeñ i gwarancji udzielonych w okresie sprawozdawczym - wobec pozosta³ych podmiotów
+end;
+fname;Rbzzu
+LP;Liczba porz¹dkowa
+ZBAN;Zobowi¹zania zaci¹gniête na realizacjê zadañ bie¿¹cych - wartoœæ nominalna
+ZBAP;Data zaci¹gniêcia - zadania bie¿¹ce
+ZBAS;Data rozpoczêcia sp³aty - zadania bie¿¹ce
+ZBAZ;Data zakoñczenia sp³aty - zadania bie¿¹ce
+ZBAU;Czy ujêto w zobowi¹zaniach wg tytu³ów d³u¿nych? - zadania bie¿¹ce
+ZBBN;Zobowi¹zania zaci¹gniête na realizacjê zadañ inwestycyjnych - wartoœæ nominalna
+ZBBP;Data zaci¹gniêcia zobowi¹zania - zadania inwestycyjne
+ZBBS;Data rozpoczêcia sp³aty - zadania inwestycyjne
+ZBBZ;Data zakoñczenia sp³aty - zadania inwestycyjne
+ZBBU;Czy ujêto w zobowi¹zaniach wg tytu³ów d³u¿nych? - zadania inwestycyjne
+end;
+fname;Rbzpw
+LP;Liczba porz¹dkowa
+PI;Wyemitowane papiery wartoœciowe - rodzaj instrumentu
+PWN;Wyemitowane papiery wartoœciowe - wartoœæ nominalna
+PWE;Wyemitowane papiery wartoœciowe - waluta emisji
+PDE;Wyemitowane papiery wartoœciowe - data emisji(rok, miesi¹c, dzieñ)
+PDW;Wyemitowane papiery wartoœciowe - data wykupu(rok, miesi¹c, dzieñ)
+end;
+fname;Rbzkz
+LP;Liczba porz¹dkowa
+KZN;Kredyty zagraniczne - wartoœæ nominalna
+KZW;Kredyty zagraniczne - waluta
+KZO;Kredyty zagraniczne - oprocentowanie
+KDZ;Kredyty zagraniczne - data zaci¹gniêcia(rok, miesi¹c, dzieñ)
+KDS;Kredyty zagraniczne - data sp³aty(rok, miesi¹c, dzieñ)
+end;

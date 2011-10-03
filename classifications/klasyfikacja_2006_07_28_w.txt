@@ -1,0 +1,1102 @@
+D:
+
+010 Rolnictwo i łowiectwo
+020 Leśnictwo
+050 Rybołówstwo i rybactwo
+100 Górnictwo i kopalnictwo
+150 Przetwórstwo przemysłowe
+400 Wytwarzanie i zaopatrywanie w energię
+elektryczną, gaz i wodę
+500 Handel
+550 Hotele i restauracje
+600 Transport i łączność
+630 Turystyka
+700 Gospodarka mieszkaniowa
+710 Działalność usługowa
+720 Informatyka
+730 Nauka
+750 Administracja publiczna
+751 Urzędy naczelnych organów władzy
+państwowej, kontroli i ochrony prawa
+oraz sądownictwa
+752 Obrona narodowa
+753 Obowiązkowe ubezpieczenia społeczne
+754 Bezpieczeństwo publiczne i ochrona
+przeciwpożarowa
+755 Wymiar sprawiedliwości
+756 Dochody od osób prawnych, od osób
+fizycznych i od innych jednostek
+nieposiadających osobowości prawnej
+oraz wydatki związane z ich poborem
+757 Obsługa długu publicznego
+758 Różne rozliczenia
+801 Oświata i wychowanie
+803 Szkolnictwo wyższe
+851 Ochrona zdrowia
+852 Pomoc społeczna
+853 Pozostałe zadania w zakresie polityki
+społecznej
+854 Edukacyjna opieka wychowawcza
+900 Gospodarka komunalna i ochrona
+środowiska
+921 Kultura i ochrona dziedzictwa
+narodowego
+925 Ogrody botaniczne i zoologiczne oraz
+naturalne obszary i obiekty chronionej
+przyrody
+926 Kultura fizyczna i sport
+
+R:
+01001 Centrum Doradztwa Rolniczego01001 Centrum Doradztwa Rolniczego
+01002 Wojewódzkie ośrodki doradztwa rolniczego
+01004 Biura geodezji i terenów rolnych
+01005 Prace geodezyjno-urządzeniowe na potrzeby rolnictwa
+01006 Zarządy melioracji i urządzeń wodnych
+01007 Zakłady konserwacji urządzeń wodnych i melioracji
+01008 Melioracje wodne
+01009 Spółki wodne
+01010 Infrastruktura wodociągowa i sanitacyjna wsi
+01011 Krajowa Stacja Chemiczno-Rolnicza
+01013 Centralny Ośrodek Badania Odmian Roślin Uprawnych
+01015 Postęp biologiczny w produkcji roślinnej
+01017 Ochrona roślin
+01018 Rolnictwo ekologiczne
+01019 Krajowe Centrum Hodowli Zwierząt
+01020 Postęp biologiczny w produkcji zwierzęcej
+01021 Główny Inspektorat Weterynarii
+01022 Zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe
+pozostałości chemicznych i biologicznych w tkankach zwierząt
+i produktach pochodzenia zwierzęcego
+01023 Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych
+01026 Dopłaty do ubezpieczeń upraw rolnych i zwierząt gospodarskich
+01027 Agencja Restrukturyzacji i Modernizacji Rolnictwa
+01028 Fundusz Ochrony Gruntów Rolnych
+01029 Dopłaty do oprocentowania kredytów na cele rolnicze
+01030 Izby rolnicze
+01031 Grupy producentów rolnych
+01032 Inspekcja Ochrony Roślin i Nasiennictwa
+01033 Wojewódzkie inspektoraty weterynarii
+01034 Powiatowe inspektoraty weterynarii
+01035 Graniczne inspektoraty weterynarii
+01036 Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój
+obszarów wiejskich
+01037 Płatności uzupełniające do gruntów rolnych
+01038 Rozwój obszarów wiejskich
+01039 Pozostałe zadania Wspólnej Polityki Rolnej
+01040 Opłaty cukrowe
+01078 Usuwanie skutków klęsk żywiołowych
+01095 Pozostała działalność
+01097 Gospodarstwa pomocnicze
+02001 Gospodarka leśna
+02002 Nadzór nad gospodarką leśną
+02003 Biuro Nasiennictwa Leśnego
+02078 Usuwanie skutków klęsk żywiołowych
+02095 Pozostała działalność
+02097 Gospodarstwa pomocnicze
+05001 Rybołówstwo
+05002 Rybactwo
+05003 Państwowa Straż Rybacka
+05004 Inspektoraty rybołówstwa morskiego
+05006 Zarybianie polskich obszarów morskich
+05008 Organizacje producentów rybnych
+05009 Rybołówstwo i przetwórstwo ryb
+05010 Pozostałe zadania Wspólnej Polityki Rybackiej
+05078 Usuwanie skutków klęsk żywiołowych
+05095 Pozostała działalność
+10001 Górnictwo węgla kamiennego
+10002 Górnictwo węgla brunatnego
+10003 Kopalnictwo rud cynkowo-ołowiowych
+10004 Kopalnictwo minerałów dla przemysłu chemicznego oraz do produkcji
+nawozów
+10005 Produkcja soli
+10006 Pozostałe górnictwo i kopalnictwo
+10078 Usuwanie skutków klęsk żywiołowych
+10095 Pozostała działalność
+15001 Drukarnie
+15002 Wydawanie podręczników szkolnych i akademickich
+15004 Zadania w zakresie bezpiecznego wykorzystania energii atomowej
+15005 Stacje ratownictwa chemicznego
+15006 Hutnictwo
+15008 Naprawa i konserwacja sprzętu medycznego
+15011 Rozwój przedsiębiorczości
+15012 Polska Agencja Rozwoju Przedsiębiorczości
+15013 Rozwój kadr nowoczesnej gospodarki i przedsiębiorczości
+15015 Rozliczenie kosztów przedsięwzięć realizowanych za granicą
+15016 Dopłaty do odsetek od kredytów na finansowanie kontraktów
+eksportowych
+15017 Rozliczenia z tytułu gwarantowanych przez Skarb Państwa ubezpieczeń
+eksportowych
+15018 Rozliczenia związane z systemem dopłat do oprocentowania kredytów
+eksportowych o stałych stopach procentowych
+15078 Usuwanie skutków klęsk żywiołowych
+15095 Pozostała działalność
+15097 Gospodarstwa pomocnicze
+40001 Dostarczanie ciepła
+40002 Dostarczanie wody
+40003 Dostarczanie energii elektrycznej
+40004 Dostarczanie paliw gazowych
+40078 Usuwanie skutków klęsk żywiołowych
+40095 Pozostała działalność
+40097 Gospodarstwa pomocnicze
+50001 Inspekcja Handlowa
+50002 Agencja Rynku Rolnego
+50003 Agencja Rezerw Materiałowych
+50004 Utrzymanie obowiązkowych zapasów paliw ciekłych
+50005 Promocja eksportu
+50006 Zadania Wspólnej Polityki Rolnej
+50095 Pozostała działalność
+55001 Schroniska turystyczne
+55002 Kempingi, pola biwakowe
+55003 Bary mleczne
+55078 Usuwanie skutków klęsk żywiołowych
+55095 Pozostała działalność
+55097 Gospodarstwa pomocnicze
+60001 Krajowe pasażerskie przewozy kolejowe
+60002 Infrastruktura kolejowa
+60003 Krajowe pasażerskie przewozy autobusowe
+60004 Lokalny transport zbiorowy
+60005 Autostrady płatne
+60011 Drogi publiczne krajowe
+60012 Generalna Dyrekcja Dróg Krajowych i Autostrad
+60013 Drogi publiczne wojewódzkie
+60014 Drogi publiczne powiatowe
+60015 Drogi publiczne w miastach na prawach powiatu (w rozdziale nie ujmuje
+się wydatków na drogi gminne)
+60016 Drogi publiczne gminne
+60017 Drogi wewnętrzne
+60031 Przejścia graniczne
+60041 Infrastruktura portowa
+60042 Urzędy żeglugi śródlądowej
+60043 Urzędy morskie
+60044 Ratownictwo morskie
+60046 Operatorzy pocztowi
+60047 Urząd Komunikacji Elektronicznej
+60052 Zadania w zakresie telekomunikacji
+60053 Infrastruktura telekomunikacyjna
+60055 Inspekcja Transportu Drogowego
+60056 Urząd Lotnictwa Cywilnego
+60059 Resortowy Ośrodek Informacji Naukowej, Technicznej i Ekonomicznej
+60060 Fundusz Żeglugi Śródlądowej i Fundusz Rezerwowy
+60078 Usuwanie skutków klęsk żywiołowych
+60095 Pozostała działalność
+60097 Gospodarstwa pomocnicze
+63001 Ośrodki informacji turystycznej
+63002 Polska Organizacja Turystyczna
+63003 Zadania w zakresie upowszechniania turystyki
+63078 Usuwanie skutków klęsk żywiołowych
+63095 Pozostała działalność
+70001 Zakłady gospodarki mieszkaniowej
+70004 Różne jednostki obsługi gospodarki mieszkaniowej
+70005 Gospodarka gruntami i nieruchomościami
+70012 Agencja Nieruchomości Rolnych
+70013 Wojskowa Agencja Mieszkaniowa
+70014 Umorzenie kredytów mieszkaniowych
+70015 Refundacja premii gwarancyjnych oraz premii za systematyczne
+oszczędzanie
+70016 Premie za systematyczne oszczędzanie na mieszkaniowych
+książeczkach oszczędnościowych
+70017 Wykup odsetek od kredytów mieszkaniowych
+70019 Krajowy Fundusz Mieszkaniowy
+70020 Fundusz Termomodernizacji
+70021 Towarzystwa budownictwa społecznego
+70022 Fundusz Dopłat
+70023 Refundacja spółdzielniom mieszkaniowym kosztów prac związanych
+z podziałem nieruchomości oraz ewidencją gruntów i budynków
+70078 Usuwanie skutków klęsk żywiołowych
+70095 Pozostała działalność
+71001 Zespoły usług projektowych
+71002 Jednostki organizacji i nadzoru inwestycyjnego
+71003 Biura planowania przestrzennego
+71004 Plany zagospodarowania przestrzennego
+71005 Prace geologiczne (nieinwestycyjne)
+71012 Ośrodki dokumentacji geodezyjnej i kartograficznej
+71013 Prace geodezyjne i kartograficzne (nieinwestycyjne)
+71014 Opracowania geodezyjne i kartograficzne
+71015 Nadzór budowlany
+71016 Krajowy Zarząd Gospodarki Wodnej
+71017 Polskie Centrum Akredytacji
+71018 Regionalne zarządy gospodarki wodnej
+71019 Państwowa służba hydrologiczno-meteorologiczna
+71020 Organizacja targów i wystaw
+71021 Główny Urząd Geodezji i Kartografii
+71030 Fundusz Gospodarki Zasobem Geodezyjnym i Kartograficznym
+71031 Centrum Badania Opinii Społecznej
+71032 Agencja Mienia Wojskowego
+71035 Cmentarze
+71078 Usuwanie skutków klęsk żywiołowych
+71095 Pozostała działalność
+71097 Gospodarstwa pomocnicze
+72001 Zakłady techniki obliczeniowej
+72002 Inne jednostki usług informatycznych
+72095 Pozostała działalność
+72097 Gospodarstwa pomocnicze
+73001 Projekty badawcze i celowe w dziedzinie nauk przyrodniczych
+73002 Projekty badawcze i celowe w dziedzinie nauk technicznych
+73003 Projekty badawcze i celowe w dziedzinie nauk społecznych,
+humanistycznych i ścisłych
+73005 Działalność statutowa i inwestycyjna jednostek naukowych oraz badania
+własne szkół wyższych
+73006 Działalność wspomagająca badania
+73007 Współpraca naukowa i naukowo-techniczna z zagranicą
+73095 Pozostała działalność
+75001 Urzędy naczelnych i centralnych organów administracji rządowej
+75002 Polski Komitet Normalizacyjny
+75003 Prokuratoria Generalna Skarbu Państwa
+75004 Kancelaria Polskiej Akademii Nauk
+75006 Rządowe Centrum Legislacji
+75007 Jednostki terenowe podległe naczelnym i centralnym organom
+administracji rządowej
+75008 Izby skarbowe
+75009 Urzędy skarbowe
+75010 Urzędy kontroli skarbowej
+75011 Urzędy wojewódzkie
+75013 Izby celne i urzędy celne
+75015 Regionalne izby obrachunkowe
+75016 Samorządowe kolegia odwoławcze
+75017 Samorządowe sejmiki województw
+75018 Urzędy marszałkowskie
+75019 Rady powiatów
+75020 Starostwa powiatowe
+75022 Rady gmin (miast i miast na prawach powiatu)
+75023 Urzędy gmin (miast i miast na prawach powiatu)
+75045 Komisje poborowe
+75046 Komisje egzaminacyjne
+75051 Wybory Prezydenta Rzeczypospolitej Polskiej
+75052 Wybory do Sejmu i Senatu
+75053 Wybory do rad gmin, rad powiatów i sejmików województw, wybory
+wójtów, burmistrzów i prezydentów miast oraz referenda gminne,
+powiatowe i wojewódzkie
+75054 Referenda ogólnokrajowe i konstytucyjne
+75055 Wybory do Parlamentu Europejskiego
+75056 Spis powszechny i inne
+75057 Placówki zagraniczne
+75058 Działalność informacyjna i kulturalna prowadzona za granicą
+75059 Operacje pokojowe
+75060 Pomoc zagraniczna
+75061 Ośrodek Studiów Wschodnich
+75062 Polski Instytut Spraw Międzynarodowych
+75063 Polski Komitet do spraw UNESCO
+75065 Krajowa Szkoła Administracji Publicznej
+75066 Komitety naukowe Polskiej Akademii Nauk
+75067 Placówki i inne jednostki organizacyjne Polskiej Akademii Nauk
+75068 Rada do Spraw Uchodźców
+75070 Centrum Personalizacji Dokumentów
+75073 Urząd do Spraw Repatriacji i Cudzoziemców
+75075 Promocja jednostek samorządu terytorialnego
+75078 Usuwanie skutków klęsk żywiołowych
+75095 Pozostała działalność
+75097 Gospodarstwa pomocnicze
+75101 Urzędy naczelnych organów władzy państwowej, kontroli i ochrony
+prawa
+75102 Naczelne organy sądownictwa
+75103 Biuro Bezpieczeństwa Narodowego
+75104 Krajowa Rada Sądownictwa
+75105 Rzecznik Interesu Publicznego
+75106 Odznaczenia państwowe
+75107 Wybory Prezydenta Rzeczypospolitej Polskiej
+75108 Wybory do Sejmu i Senatu
+75109 Wybory do rad gmin, rad powiatów i sejmików województw, wybory
+wójtów, burmistrzów i prezydentów miast oraz referenda gminne,
+powiatowe i wojewódzkie
+75110 Referenda ogólnokrajowe i konstytucyjne
+75112 Jednostki podległe Instytutowi Pamięci Narodowej – Komisji Ścigania
+Zbrodni przeciwko Narodowi Polskiemu
+75113 Wybory do Parlamentu Europejskiego
+75178 Usuwanie skutków klęsk żywiołowych
+75195 Pozostała działalność
+75197 Gospodarstwa pomocnicze
+75201 Wojska Lądowe
+75202 Siły Powietrzne
+75203 Marynarka Wojenna
+75204 Centralne wsparcie
+75205 Zespoły kontaktowe i struktury dowodzenia NATO
+75206 Wojskowe Służby Informacyjne
+75207 Żandarmeria Wojskowa
+75208 Ordynariat Polowy Wojska Polskiego
+75209 Prawosławny Ordynariat Wojska Polskiego
+75210 Ewangelickie Duszpasterstwo Wojskowe
+75211 Pozostałe jednostki wojskowe
+75212 Pozostałe wydatki obronne
+75213 Dowodzenie i kierowanie Siłami Zbrojnymi Rzeczypospolitej Polskiej
+75214 Wykonywanie funkcji Państwa Gospodarza (HNS)
+75215 Zadania związane z utrzymaniem mocy rezerwowych ze względu na
+potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej
+75216 Wojskowe Misje Pokojowe
+75217 Służba Wywiadu Wojskowego
+75218 Służba Kontrwywiadu Wojskowego
+75278 Usuwanie skutków klęsk żywiołowych
+75297 Gospodarstwa pomocnicze
+75301 Świadczenia pieniężne z zaopatrzenia emerytalnego
+75301 Świadczenia pieniężne z zaopatrzenia emerytalnego
+75302 Uposażenia prokuratorów w stanie spoczynku oraz uposażenia rodzinne
+75303 Fundusz Ubezpieczeń Społecznych
+75305 Fundusz Emerytalno-Rentowy
+75306 Fundusz Prewencji i Rehabilitacji
+75307 Fundusz Administracyjny
+75308 Fundusz Rezerwy Demograficznej
+75309 Składki na ubezpieczenia społeczne
+75311 Renty strukturalne
+75312 Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne
+75313 Świadczenia finansowane z budżetu państwa zlecone do wypłaty
+Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia
+Społecznego
+75395 Pozostała działalność
+75402 Komenda Główna Policji
+75403 Jednostki terenowe Policji
+75404 Komendy wojewódzkie Policji
+75405 Komendy powiatowe Policji
+75406 Straż Graniczna
+75408 Biuro Ochrony Rządu
+75409 Komenda Główna Państwowej Straży Pożarnej
+75410 Komendy wojewódzkie Państwowej Straży Pożarnej
+75411 Komendy powiatowe Państwowej Straży Pożarnej
+75412 Ochotnicze straże pożarne
+75413 Pozostałe jednostki ochrony przeciwpożarowej
+75414 Obrona cywilna
+75415 Zadania ratownictwa górskiego i wodnego
+75416 Straż Miejska
+75417 Organizacja Traktatu Północnoatlantyckiego
+75418 Agencja Bezpieczeństwa Wewnętrznego
+75419 Agencja Wywiadu
+75420 Centralne Biuro Antykorupcyjne
+75478 Usuwanie skutków klęsk żywiołowych
+75495 Pozostała działalność
+75497 Gospodarstwa pomocnicze
+75501 Centralne administracyjne jednostki wymiaru sprawiedliwości
+i prokuratury
+75502 Jednostki sądownictwa powszechnego
+75503 Sądy wojskowe
+75504 Izby morskie
+75505 Jednostki powszechne prokuratury
+75506 Wojskowe jednostki organizacyjne prokuratury
+75507 Instytuty naukowe resortu sprawiedliwości
+75512 Więziennictwo
+75513 Zakłady dla nieletnich
+75514 Krajowe Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury
+75578 Usuwanie skutków klęsk żywiołowych
+75595 Pozostała działalność
+75597 Gospodarstwa pomocnicze
+75601 Wpływy z podatku dochodowego od osób fizycznych
+75602 Wpływy z podatku dochodowego od banków i pozostałych instytucji
+finansowych oraz wpłaty z zysku Narodowego Banku Polskiego
+75603 Wpływy z podatku dochodowego od pozostałych osób prawnych
+i innych jednostek organizacyjnych
+75604 Wpływy z podatku dochodowego od osób fizycznych pobieranego
+w wysokości 19% od dochodów z pozarolniczej działalności
+gospodarczej
+75605 Wpłaty z zysku przedsiębiorstw i jednoosobowych spółek
+75607 Wpływy z podatku akcyzowego od alkoholu etylowego
+75608 Wpływy z podatku akcyzowego od wina, pozostałych napojów
+fermentowanych i produktów pośrednich
+75609 Wpływy z podatku akcyzowego od piwa
+75610 Wpływy z podatku akcyzowego od paliw silnikowych
+75611 Wpływy z podatku akcyzowego od samochodów osobowych
+75612 Wpływy z podatku akcyzowego od wyrobów tytoniowych
+75613 Wpływy z podatku akcyzowego od pozostałych wyrobów akcyzowych
+75614 Wpływy z gier
+75615 Wpływy z podatku rolnego, podatku leśnego, podatku od czynności
+cywilnoprawnych, podatków i opłat lokalnych od osób prawnych i innych
+jednostek organizacyjnych
+75616 Wpływy z podatku rolnego, podatku leśnego, podatku od spadków i
+darowizn, podatku od czynności cywilnoprawnych oraz podatków i opłat
+lokalnych od osób fizycznych
+75617 Wpływy z innych podatków od innych jednostek (poza wymienionymi
+w wyodrębnionych rozdziałach)
+75618 Wpływy z innych opłat stanowiących dochody jednostek samorządu
+terytorialnego na podstawie ustaw
+75619 Wpływy z różnych rozliczeń
+75620 Wpływy z rozliczeń jednostek budżetowych z tytułu potrąceń
+75621 Udziały gmin w podatkach stanowiących dochód budżetu państwa
+75622 Udziały powiatów w podatkach stanowiących dochód budżetu państwa
+75623 Udziały województw w podatkach stanowiących dochód budżetu
+państwa
+75624 Dywidendy
+75625 Podatek akcyzowy od energii elektrycznej
+75626 Podatek akcyzowy od olejów opałowych
+75627 Podatek akcyzowy od gazu
+75647 Pobór podatków, opłat i niepodatkowych należności budżetowych
+75648 Wpłaty z podatku od towarów i usług od importu towarów rozliczane
+przez urzędy celne
+75649 Wpłaty z podatku od towarów i usług od przewozu osób z tytułu
+świadczenia na terytorium Rzeczypospolitej Polskiej usług
+międzynarodowego transportu drogowego pobrane przez urzędy celne
+75650 Wpłaty ze zryczałtowanego podatku od towarów i usług pobrane przez
+urzędy skarbowe od przewozu osób i ładunków taksówkami
+75651 Wpłaty z podatku od towarów i usług pobrane przez urzędy skarbowe
+jako dodatkowe zobowiązanie podatkowe z tytułu nieprawidłowości
+popełnianych przez podatnika przy rozliczaniu podatku (sankcje)
+75652 Pozostałe wpłaty z podatku od towarów i usług pobrane przez urzędy
+skarbowe
+75653 Zwroty podatku od towarów i usług rozliczane przez urzędy skarbowe
+75654 Rozliczenia w podatku od towarów i usług z tytułu kas rejestrujących
+75655 Zwroty osobom fizycznym niektórych wydatków związanych
+z budownictwem mieszkaniowym
+75701 Obsługa zadłużenia zagranicznego, należności i innych operacji
+zagranicznych
+75702 Obsługa papierów wartościowych, kredytów i pożyczek jednostek
+samorządu terytorialnego
+75703 Obsługa krajowych skarbowych papierów wartościowych
+75704 Rozliczenia z tytułu poręczeń i gwarancji udzielonych przez Skarb
+Państwa lub jednostkę samorządu terytorialnego
+75705 Obsługa krajowych pożyczek i kredytów
+75801 Część oświatowa subwencji ogólnej dla jednostek samorządu
+terytorialnego
+75802 Uzupełnienie subwencji ogólnej dla jednostek samorządu terytorialnego
+75803 Część wyrównawcza subwencji ogólnej dla powiatów
+75804 Część wyrównawcza subwencji ogólnej dla województw
+75805 Część rekompensująca subwencji ogólnej dla gmin
+75807 Część wyrównawcza subwencji ogólnej dla gmin
+75808 Rozliczenia wpływów z podatków od dochodów osiąganych
+z działalności gospodarczej prowadzonej na terenie specjalnych stref
+ekonomicznych w części podlegającej przekazaniu na rachunek
+Funduszu Strefowego
+75809 Rozliczenia między jednostkami samorządu terytorialnego
+75810 Uzupełnienie funduszy statutowych banków państwowych i innych
+instytucji finansowych
+75811 Rozliczenia z tytułu rachunków clearingowych, barterowych
+i specjalnych oraz różnice kooficjentowe
+75812 Rozliczenia z międzynarodowymi organizacjami finansowymi
+75813 Rozliczenia z tytułu odpowiedzialności Skarbu Państwa za wkłady
+oszczędnościowe ludności
+75814 Różne rozliczenia finansowe
+75815 Wpływy do wyjaśnienia
+75816 Wpływy do rozliczenia
+75817 Ogólna rezerwa budżetowa Rady Ministrów
+75818 Rezerwy ogólne i celowe
+75820 Prywatyzacja
+75822 Fundusz Kościelny
+75823 Partie polityczne
+75824 Komitety wyborcze (wyborców)
+75831 Część równoważąca subwencji ogólnej dla gmin
+75832 Część równoważąca subwencji ogólnej dla powiatów
+75833 Część regionalna subwencji ogólnej dla województw
+75850 Rozliczenia z budżetem ogólnym Unii Europejskiej z tytułu środków
+własnych
+75860 Euroregiony
+80101 Szkoły podstawowe
+80102 Szkoły podstawowe specjalne
+80103 Oddziały przedszkolne w szkołach podstawowych
+80104 Przedszkola
+80105 Przedszkola specjalne
+80110 Gimnazja
+80111 Gimnazja specjalne
+80113 Dowożenie uczniów do szkół
+80114 Zespoły obsługi ekonomiczno-administracyjnej szkół
+80120 Licea ogólnokształcące
+80121 Licea ogólnokształcące specjalne
+80123 Licea profilowane
+80124 Licea profilowane specjalne
+80130 Szkoły zawodowe
+80131 Kolegia pracowników służb społecznych
+80132 Szkoły artystyczne
+80134 Szkoły zawodowe specjalne
+80135 Szkolnictwo polskie za granicą
+80136 Kuratoria oświaty
+80140 Centra kształcenia ustawicznego i praktycznego oraz ośrodki
+dokształcania zawodowego
+80141 Zakłady kształcenia nauczycieli
+80142 Ośrodki szkolenia, dokształcania i doskonalenia kadr
+80143 Jednostki pomocnicze szkolnictwa
+80144 Inne formy kształcenia osobno niewymienione
+80145 Komisje egzaminacyjne
+80146 Dokształcanie i doskonalenie nauczycieli
+80147 Biblioteki pedagogiczne
+80178 Usuwanie skutków klęsk żywiołowych
+80195 Pozostała działalność
+80197 Gospodarstwa pomocnicze
+80302 Uczelnie wojskowe
+80303 Uczelnie służb państwowych
+80304 Wyższe szkoły pożarnictwa
+80306 Działalność dydaktyczna
+80307 Jednostki pomocnicze szkolnictwa wyższego
+80309 Pomoc materialna dla studentów i doktorantów
+80310 Fundusz Pożyczek i Kredytów Studenckich
+80378 Usuwanie skutków klęsk żywiołowych
+80395 Pozostała działalność
+85111 Szpitale ogólne
+85112 Szpitale kliniczne
+85115 Sanatoria
+85116 Profilaktyczne domy zdrowia
+85117 Zakłady opiekuńczo-lecznicze i pielęgnacyjno-opiekuńcze
+85118 Szpitale uzdrowiskowe
+85119 Leczenie sanatoryjno-klimatyczne
+85120 Lecznictwo psychiatryczne
+85121 Lecznictwo ambulatoryjne
+85131 Lecznictwo stomatologiczne
+85132 Inspekcja Sanitarna
+85133 Inspekcja Farmaceutyczna
+85136 Narodowy Fundusz Zdrowia
+85137 Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych
+i Produktów Biobójczych
+85138 Dopłaty do oprocentowania kredytów udzielanych lekarzom, lekarzom
+stomatologom, pielęgniarkom i położnym oraz umorzenia tych kredytów
+85141 Ratownictwo medyczne
+85142 Kolumny transportu sanitarnego
+85143 Publiczna służba krwi
+85147 Zespoły metodyczne opieki zdrowotnej
+85148 Medycyna pracy
+85149 Programy polityki zdrowotnej
+85151 Świadczenia wysokospecjalistyczne
+85152 Zapobieganie i zwalczanie AIDS
+85153 Zwalczanie narkomanii
+85154 Przeciwdziałanie alkoholizmowi
+85156 Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób
+nieobjętych obowiązkiem ubezpieczenia zdrowotnego
+85157 Staże i specjalizacje medyczne
+85158 Izby wytrzeźwień
+85178 Usuwanie skutków klęsk żywiołowych
+85195 Pozostała działalność
+85197 Gospodarstwa pomocnicze
+85201 Placówki opiekuńczo-wychowawcze
+85202 Domy pomocy społecznej
+85203 Ośrodki wsparcia
+85204 Rodziny zastępcze
+85205 Zadania w zakresie przeciwdziałania przemocy w rodzinie
+85212 Świadczenia rodzinne, zaliczka alimentacyjna oraz składki na
+ubezpieczenia emerytalne i rentowe z ubezpieczenia społecznego
+85213 Składki na ubezpieczenie zdrowotne opłacane za osoby pobierające
+niektóre świadczenia z pomocy społecznej oraz niektóre świadczenia
+rodzinne
+85214 Zasiłki i pomoc w naturze oraz składki na ubezpieczenia emerytalne
+i rentowe
+85215 Dodatki mieszkaniowe
+85217 Regionalne ośrodki polityki społecznej
+85218 Powiatowe centra pomocy rodzinie
+85219 Ośrodki pomocy społecznej
+85220 Jednostki specjalistycznego poradnictwa, mieszkania chronione
+i ośrodki interwencji kryzysowej
+85226 Ośrodki adopcyjno-opiekuńcze
+85228 Usługi opiekuńcze i specjalistyczne usługi opiekuńcze
+85231 Pomoc dla uchodźców
+85232 Centra integracji społecznej
+85233 Dokształcanie i doskonalenie nauczycieli
+85234 Fundusz Alimentacyjny w likwidacji
+85278 Usuwanie skutków klęsk żywiołowych
+85295 Pozostała działalność
+85297 Gospodarstwa pomocnicze
+85305 Żłobki
+85311 Rehabilitacja zawodowa i społeczna osób niepełnosprawnych
+85321 Zespoły do spraw orzekania o niepełnosprawności
+85322 Fundusz Pracy
+85323 Państwowy Fundusz Kombatantów
+85324 Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+85325 Fundusz Gwarantowanych Świadczeń Pracowniczych
+85329 Specjalistyczne ośrodki szkoleniowo-rehabilitacyjne
+85330 Opieka i pomoc dla Polonii i Polaków za granicą
+85332 Wojewódzkie urzędy pracy
+85333 Powiatowe urzędy pracy
+85334 Pomoc dla repatriantów
+85335 Refundacja ulg dla inwalidów wojennych i wojskowych z tytułu
+ubezpieczenia OC i AC
+85347 Renta socjalna oraz zasiłki i świadczenia przedemerytalne
+85378 Usuwanie skutków klęsk żywiołowych
+85395 Pozostała działalność
+85397 Gospodarstwa pomocnicze
+85401 Świetlice szkolne
+85402 Specjalne ośrodki wychowawcze
+85403 Specjalne ośrodki szkolno-wychowawcze
+85404 Wczesne wspomaganie rozwoju dziecka
+85406 Poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne
+85407 Placówki wychowania pozaszkolnego
+85410 Internaty i bursy szkolne
+85411 Domy wczasów dziecięcych
+85412 Kolonie i obozy oraz inne formy wypoczynku dzieci i młodzieży szkolnej,
+a także szkolenia młodzieży
+85413 Kolonie i obozy dla młodzieży polonijnej w kraju
+85415 Pomoc materialna dla uczniów
+85416 Ochotnicze Hufce Pracy
+85417 Szkolne schroniska młodzieżowe
+85418 Przeciwdziałanie i ograniczanie skutków patologii społecznej
+85419 Ośrodki rewalidacyjno-wychowawcze
+85420 Młodzieżowe ośrodki wychowawcze
+85421 Młodzieżowe ośrodki socjoterapii
+85446 Dokształcanie i doskonalenie nauczycieli
+85478 Usuwanie skutków klęsk żywiołowych
+85495 Pozostała działalność
+85497 Gospodarstwa pomocnicze
+90001 Gospodarka ściekowa i ochrona wód
+90002 Gospodarka odpadami
+90003 Oczyszczanie miast i wsi
+90004 Utrzymanie zieleni w miastach i gminach
+90005 Ochrona powietrza atmosferycznego i klimatu
+90006 Ochrona gleby i wód podziemnych
+90007 Zmniejszenie hałasu i wibracji
+90008 Ochrona różnorodności biologicznej i krajobrazu
+90009 Ochrona przed promieniowaniem jonizującym
+90010 Działalność badawczo-rozwojowa
+90011 Fundusz Ochrony Środowiska i Gospodarki Wodnej
+90012 EKOFUNDUSZ
+90013 Schroniska dla zwierząt
+90014 Inspekcja Ochrony Środowiska
+90015 Oświetlenie ulic, placów i dróg
+90016 Agencja Rozwoju Komunalnego
+90017 Zakłady gospodarki komunalnej
+90018 Ochrona brzegów morskich
+90019 Wpływy i wydatki związane z gromadzeniem środków z opłat i kar
+za korzystanie ze środowiska
+90020 Wpływy i wydatki związane z gromadzeniem środków z opłat
+produktowych
+90021 Fundusz Rozwoju Inwestycji Komunalnych
+90078 Usuwanie skutków klęsk żywiołowych
+90095 Pozostała działalność
+92101 Instytucje kinematografii
+92102 Polski Instytut Sztuki Filmowej
+92103 Zadania w zakresie kinematografii
+92104 Działalność radiowa i telewizyjna
+92105 Pozostałe zadania w zakresie kultury
+92106 Teatry
+92108 Filharmonie, orkiestry, chóry i kapele
+92109 Domy i ośrodki kultury, świetlice i kluby
+92110 Galerie i biura wystaw artystycznych
+92113 Centra kultury i sztuki
+92114 Pozostałe instytucje kultury
+92115 Polska Agencja Prasowa
+92116 Biblioteki
+92117 Archiwa
+92118 Muzea
+92119 Ośrodki ochrony i dokumentacji zabytków
+92120 Ochrona zabytków i opieka nad zabytkami
+92121 Wojewódzkie Urzędy Ochrony Zabytków
+92122 Rada Ochrony Pamięci Walk i Męczeństwa
+92123 Narodowy Fundusz Rewaloryzacji Zabytków Krakowa
+92124 Zarząd Rewaloryzacji Zespołów Zabytkowych Miasta Krakowa
+92178 Usuwanie skutków klęsk żywiołowych
+92195 Pozostała działalność
+92197 Gospodarstwa pomocnicze
+92501 Parki narodowe
+92502 Parki krajobrazowe
+92503 Rezerwaty i pomniki przyrody
+92504 Ogrody botaniczne i zoologiczne
+92578 Usuwanie skutków klęsk żywiołowych
+92595 Pozostała działalność
+92597 Gospodarstwa pomocnicze
+92601 Obiekty sportowe
+92603 Komisja do Zwalczania Dopingu w Sporcie
+92604 Instytucje kultury fizycznej
+92605 Zadania w zakresie kultury fizycznej i sportu
+92678 Usuwanie skutków klęsk żywiołowych
+92695 Pozostała działalność
+
+C:
+
+0 Finansowanie ze środków własnych
+1 Finansowanie programów ze środków bezzwrotnych pochodzących z Unii
+Europejskiej
+2 Współfinansowanie programów realizowanych ze środków bezzwrotnych
+pochodzących z Unii Europejskiej
+3 Finansowanie z pożyczek i kredytów zagranicznych
+4 Współfinansowanie pożyczek i kredytów zagranicznych
+5 Finansowanie z innych środków bezzwrotnych
+6 Współfinansowanie innych środków bezzwrotnych
+7 Pozostałe
+8 Finansowanie programów i projektów ze środków funduszy strukturalnych,
+Funduszu Spójności oraz z funduszy unijnych finansujących Wspólną Politykę
+Rolną
+9 Współfinansowanie programów i projektów realizowanych ze środków z funduszy
+strukturalnych, Funduszu Spójności oraz z funduszy unijnych finansujących
+Wspólną Politykę Rolną
+
+P:
+
+201 Dotacje celowe przekazane z budżetu państwa na realizację zadań
+bieżących z zakresu administracji rządowej oraz innych zadań
+zleconych gminom (związkom gmin) ustawami
+202 Dotacje celowe przekazane z budżetu państwa na zadania bieżące
+realizowane przez gminę na podstawie porozumień z organami
+administracji rządowej
+203 Dotacje celowe przekazane z budżetu państwa na realizację własnych
+zadań bieżących gmin (związków gmin)
+211 Dotacje celowe przekazane z budżetu państwa na zadania bieżące
+z zakresu administracji rządowej oraz inne zadania zlecone ustawami
+realizowane przez powiat
+212 Dotacje celowe przekazane z budżetu państwa na zadania bieżące
+realizowane przez powiat na podstawie porozumień z organami
+administracji rządowej
+213 Dotacje celowe przekazane z budżetu państwa na realizację bieżących
+zadań własnych powiatu
+221 Dotacje celowe przekazane z budżetu państwa na zadania bieżące
+z zakresu administracji rządowej oraz inne zadania zlecone ustawami
+realizowane przez samorząd województwa
+222 Dotacje celowe przekazane z budżetu państwa na zadania bieżące
+realizowane przez samorząd województwa na podstawie porozumień
+z organami administracji rządowej
+223 Dotacje celowe przekazane z budżetu państwa na realizację bieżących
+zadań własnych samorządu województwa
+231 Dotacje celowe przekazane gminie na zadania bieżące realizowane na
+podstawie porozumień (umów) między jednostkami samorządu
+terytorialnego
+232 Dotacje celowe przekazane dla powiatu na zadania bieżące realizowane
+na podstawie porozumień (umów) między jednostkami samorządu
+terytorialnego
+233 Dotacje celowe przekazane do samorządu województwa na zadania
+bieżące realizowane na podstawie porozumień (umów) między
+jednostkami samorządu terytorialnego
+237 Wpłata do budżetu nadwyżki środków obrotowych przez zakład
+budżetowy
+238 Wpłata do budżetu części zysku przez gospodarstwo pomocnicze
+240 Wpłata do budżetu nadwyżki dochodów własnych lub środków
+obrotowych
+241 Dotacja z budżetu dla zakładu budżetowego na pierwsze wyposażenie
+w środki obrotowe
+242 Dotacja z budżetu dla gospodarstwa pomocniczego na pierwsze
+wyposażenie w środki obrotowe
+243 Dotacja z budżetu dla funduszu celowego
+244 Dotacje przekazane z funduszy celowych na realizację zadań bieżących
+dla jednostek sektora finansów publicznych
+245 Dotacje przekazane z funduszy celowych na realizację zadań bieżących
+dla jednostek niezaliczanych do sektora finansów publicznych
+246 Środki przekazane przez pozostałe jednostki zaliczane do sektora
+finansów publicznych na realizację zadań bieżących dla jednostek
+zaliczanych do sektora finansów publicznych
+247 Środki przekazane przez pozostałe jednostki zaliczane do sektora
+finansów publicznych na realizację zadań bieżących dla jednostek
+niezaliczanych do sektora finansów publicznych
+248 Dotacja podmiotowa z budżetu dla samorządowej instytucji kultury
+249 Dotacja podmiotowa z budżetu dla samodzielnego publicznego zakładu
+opieki zdrowotnej utworzonego przez organ administracji rządowej lub
+państwową uczelnię
+250 Dotacja podmiotowa z budżetu dla uczelni niepublicznej
+251 Dotacja podmiotowa z budżetu dla zakładu budżetowego
+252 Dotacja podmiotowa z budżetu dla uczelni publicznej
+253 Dotacja podmiotowa z budżetu dla jednostek naukowych
+254 Dotacja podmiotowa z budżetu dla niepublicznej jednostki systemu
+oświaty
+255 Dotacja podmiotowa z budżetu dla państwowej instytucji kultury
+256 Dotacja podmiotowa z budżetu dla samodzielnego publicznego zakładu
+opieki zdrowotnej utworzonego przez jednostkę samorządu
+terytorialnego
+257 Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora
+finansów publicznych
+258 Dotacja podmiotowa z budżetu dla jednostek niezaliczanych do sektora
+finansów publicznych
+259 Dotacja podmiotowa z budżetu dla publicznej jednostki systemu oświaty
+prowadzonej przez osobę prawną inną niż jednostka samorządu
+terytorialnego lub przez osobę fizyczną
+260 Dotacja podmiotowa z budżetu dla jednostek badawczo-rozwojowych
+261 Środki przekazane przez Narodowy Fundusz Ochrony Środowiska
+i Gospodarki Wodnej na finansowanie funkcjonowania systemu handlu
+uprawnieniami do emisji
+262 Dotacja przedmiotowa z budżetu dla pozostałych jednostek sektora
+finansów publicznych
+263 Dotacja przedmiotowa z budżetu dla jednostek niezaliczanych do
+sektora finansów publicznych
+265 Dotacja przedmiotowa z budżetu dla zakładu budżetowego
+266 Dotacja przedmiotowa z budżetu dla gospodarstwa pomocniczego
+267 Dotacja celowa z budżetu dla jednostek niezaliczanych do sektora
+finansów publicznych realizujących projekty finansowane z udziałem
+środków z budżetu Unii Europejskiej
+268 Rekompensaty utraconych dochodów w podatkach i opłatach lokalnych
+269 Środki Funduszu Pracy przekazane powiatom z przeznaczeniem na
+finansowanie kosztów wynagrodzenia i składek na ubezpieczenia
+społeczne pracowników powiatowego urzędu pracy
+270 Subwencje dla partii politycznych
+271 Dotacja celowa na pomoc finansową udzielaną między jednostkami
+samorządu terytorialnego na dofinansowanie własnych zadań bieżących
+272 Dotacje celowe z budżetu na finansowanie lub dofinansowanie prac
+remontowych i konserwatorskich obiektów zabytkowych przekazane
+jednostkom niezaliczanym do sektora finansów publicznych
+273 Dotacje celowe z budżetu na finansowanie lub dofinansowanie prac
+remontowych i konserwatorskich obiektów zabytkowych, przekazane
+jednostkom zaliczanym do sektora finansów publicznych
+274 Pomoc zagraniczna
+275 Środki na uzupełnienie dochodów gmin
+276 Środki na uzupełnienie dochodów powiatów
+277 Środki na uzupełnienie dochodów województw
+278 Środki na inwestycje rozpoczęte przed dniem 1 stycznia 1999 r.
+279 Środki na utrzymanie rzecznych przepraw promowych oraz budowę,
+modernizację, utrzymanie, ochronę i zarządzanie drogami krajowymi
+i wojewódzkimi w granicach miast na prawach powiatu
+280 Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do
+sektora finansów publicznych
+281 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań
+zleconych do realizacji fundacjom
+282 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań
+zleconych do realizacji stowarzyszeniom
+283 Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań
+zleconych do realizacji pozostałym jednostkom niezaliczanym do
+sektora finansów publicznych
+284 Dotacja celowa z budżetu państwa na finansowanie lub dofinansowanie
+ustawowo określonych zadań bieżących realizowanych przez pozostałe
+jednostki sektora finansów publicznych
+285 Wpłaty gmin na rzecz izb rolniczych w wysokości 2% uzyskanych
+wpływów z podatku rolnego
+286 Dotacja z budżetu państwa stanowiąca zwrot kosztów obsługi
+świadczeń zleconych do wypłaty Zakładowi Ubezpieczeń Społecznych
+i Kasie Rolniczego Ubezpieczenia Społecznego oraz dotacja dla
+Funduszu Kościelnego
+288 Dotacja celowa przekazana jednostce samorządu terytorialnego przez
+inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą
+na zadania bieżące realizowane na podstawie porozumień (umów)
+289 Środki Funduszu Promocji Kultury przekazane Polskiemu Instytutowi
+Sztuki Filmowej
+290 Wpłaty gmin i powiatów na rzecz innych jednostek samorządu
+terytorialnego oraz związków gmin lub związków powiatów na
+dofinansowanie zadań bieżących
+291 Zwrot dotacji wykorzystanych niezgodnie z przeznaczeniem lub
+pobranych w nadmiernej wysokości
+292 Subwencje ogólne z budżetu państwa
+293 Wpłaty jednostek samorządu terytorialnego do budżetu państwa
+294 Zwrot do budżetu państwa nienależnie pobranej subwencji ogólnej za
+lata poprzednie
+296 Przelewy redystrybucyjne
+297 Różne przelewy
+298 Pozostałe rozliczenia z bankami
+300 Wpłaty jednostek na fundusz celowy
+302 Wydatki osobowe niezaliczone do wynagrodzeń
+303 Różne wydatki na rzecz osób fizycznych
+304 Nagrody o charakterze szczególnym niezaliczone do wynagrodzeń
+305 Zasądzone renty
+306 Pomoc finansowa państwa na bieżące naprawy prywatnych domów
+oraz dopłaty do energii cieplnej (z kotłowni własnych)
+307 Wydatki osobowe niezaliczone do uposażeń wypłacane żołnierzom
+i funkcjonariuszom
+311 Świadczenia społeczne
+321 Stypendia i zasiłki dla studentów
+323 Dopłaty do Funduszu Pożyczek i Kredytów Studenckich
+324 Stypendia dla uczniów
+325 Stypendia różne
+326 Inne formy pomocy dla uczniów
+401 Wynagrodzenia osobowe pracowników
+402 Wynagrodzenia osobowe członków korpusu służby cywilnej
+403 Wynagrodzenia osobowe sędziów i prokuratorów oraz asesorów
+i aplikantów
+404 Dodatkowe wynagrodzenie roczne
+405 Uposażenia żołnierzy zawodowych i nadterminowych oraz
+funkcjonariuszy
+406 Pozostałe należności żołnierzy zawodowych i nadterminowych oraz
+funkcjonariuszy
+407 Dodatkowe uposażenie roczne dla żołnierzy zawodowych oraz nagrody
+roczne dla funkcjonariuszy
+408 Uposażenia i świadczenia pieniężne wypłacane przez okres roku
+żołnierzom i funkcjonariuszom zwolnionym ze służby
+409 Honoraria
+410 Wynagrodzenia agencyjno-prowizyjne
+411 Składki na ubezpieczenia społeczne
+412 Składki na Fundusz Pracy
+413 Składki na ubezpieczenie zdrowotne
+414 Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+415 Dopłaty w spółkach prawa handlowego
+416 Pokrycie ujemnego wyniku finansowego i przejętych zobowiązań po
+likwidowanych i przekształcanych jednostkach zaliczanych do sektora
+finansów publicznych
+417 Wynagrodzenia bezosobowe
+418 Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy
+419 Nagrody motywacyjne
+420 Fundusz operacyjny
+421 Zakup materiałów i wyposażenia
+422 Zakup środków żywności
+423 Zakup leków i materiałów medycznych
+424 Zakup pomocy naukowych, dydaktycznych i książek
+425 Zakup sprzętu i uzbrojenia
+426 Zakup energii
+427 Zakup usług remontowych
+428 Zakup usług zdrowotnych
+429 Zakup świadczeń zdrowotnych dla osób nieobjętych obowiązkiem
+ubezpieczenia zdrowotnego
+430 Zakup usług pozostałych
+431 Wydatki na sfinansowanie kosztów emisji skarbowych papierów
+wartościowych oraz innych kosztów i prowizji
+432 Staże i specjalizacje medyczne
+433 Zakup usług przez jednostki samorządu terytorialnego od innych
+jednostek samorządu terytorialnego
+434 Zakup usług remontowo-konserwatorskich dotyczących obiektów
+zabytkowych będących w użytkowaniu jednostek budżetowych
+435 Zakup usług dostępu do sieci Internet
+436 Opłaty z tytułu zakupu usług telekomunikacyjnych telefonii komórkowej
+437 Opłaty z tytułu zakupu usług telekomunikacyjnych telefonii stacjonarnej
+438 Zakup usług obejmujących tłumaczenia
+439 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii
+440 Opłaty czynszowe za pomieszczenia biurowe
+441 Podróże służbowe krajowe
+442 Podróże służbowe zagraniczne
+443 Różne opłaty i składki
+444 Odpisy na zakładowy fundusz świadczeń socjalnych
+445 Udzielone pożyczki na zaspokojenie potrzeb mieszkaniowych sędziów
+i prokuratorów
+446 Podatek dochodowy od osób prawnych
+447 Cła
+448 Podatek od nieruchomości
+449 Pozostałe podatki na rzecz budżetu państwa
+450 Pozostałe podatki na rzecz budżetów jednostek samorządu
+terytorialnego
+451 Opłaty na rzecz budżetu państwa
+452 Opłaty na rzecz budżetów jednostek samorządu terytorialnego
+453 Podatek od towarów i usług (VAT)
+454 Składki do organizacji międzynarodowych
+455 Szkolenia członków korpusu służby cywilnej
+456 Odsetki od dotacji wykorzystanych niezgodnie z przeznaczeniem lub
+pobranych w nadmiernej wysokości
+457 Odsetki od nieterminowych wpłat z tytułu pozostałych podatków i opłat
+458 Pozostałe odsetki
+459 Kary i odszkodowania wypłacane na rzecz osób fizycznych
+460 Kary i odszkodowania wypłacane na rzecz osób prawnych i innych
+jednostek organizacyjnych
+461 Koszty postępowania sądowego i prokuratorskiego
+462 Umorzenie należności agencji płatniczych
+463 Rozliczenie wydatków agencji płatniczych związanych z interwencją
+rynkową w ramach Wspólnej Polityki Rolnej
+464 Wydatki egzekucyjne poniesione w postępowaniu egzekucyjnym
+wszczętym i prowadzonym na poczet należności objętych wnioskiem
+obcego państwa, nieściągnięte od zobowiązanego
+465 Odsetki od nieterminowych wpłat podatku dochodowego od osób
+prawnych
+466 Odsetki od nieterminowych wpłat ceł
+467 Odsetki od nieterminowych wpłat podatku od nieruchomości
+468 Odsetki od nieterminowych wpłat podatku od towarów i usług (VAT)
+469 Składki do organizacji międzynarodowych, w których uczestnictwo
+związane jest z członkostwem w Unii Europejskiej
+470 Szkolenia pracowników niebędących członkami korpusu służby cywilnej
+471 Fundusz dyspozycyjny
+472 Amortyzacja
+474 Zakup materiałów papierniczych do sprzętu drukarskiego i urządzeń
+kserograficznych
+475 Zakup akcesoriów komputerowych, w tym programów i licencji
+481 Rezerwy
+482 Rezerwy subwencji ogólnej
+490 Pokrycie zobowiązań zakładów opieki zdrowotnej
+493 Wydatki funduszu celowego na cele związane z zaspokojeniem
+roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa
+494 Dofinansowanie z funduszu celowego procesów likwidacyjnych
+i uzupełnienie środków na pokrycie kosztów postępowania
+upadłościowego przedsiębiorstw państwowych oraz spółek, w których
+Skarb Państwa jest udziałowcem lub akcjonariuszem
+495 Różnice kursowe
+496 Stałe zaliczki do rozliczenia udzielone placówkom polskim za granicą
+497 Nierozliczone środki budżetowe przekazane jednostkom budżetowym
+mającym siedziby poza granicami Rzeczypospolitej Polskiej na
+finansowanie wydatków
+498 Zwroty dotyczące rozliczeń z Komisją Europejską
+499 Niewłaściwe obciążenie oraz uznanie rachunku bieżącego
+601 Wydatki na zakup i objęcie akcji, wniesienie wkładów do spółek prawa
+handlowego oraz na uzupełnienie funduszy statutowych banków
+państwowych i innych instytucji finansowych
+602 Wydatki na wniesienie wkładów do spółdzielni
+605 Wydatki inwestycyjne jednostek budżetowych
+606 Wydatki na zakupy inwestycyjne jednostek budżetowych
+607 Wydatki inwestycyjne zakładów budżetowych
+608 Wydatki na zakupy inwestycyjne zakładów budżetowych
+611 Wydatki inwestycyjne funduszy celowych
+612 Wydatki na zakupy inwestycyjne funduszy celowych
+613 Wydatki inwestycyjne pozostałych jednostek
+614 Wydatki na zakupy inwestycyjne pozostałych jednostek
+616 Wydatki na współfinansowanie programów inwestycyjnych NATO i UE
+617 Wpłaty jednostek na fundusz celowy na finansowanie lub
+dofinansowanie zadań inwestycyjnych
+621 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów
+realizacji inwestycji i zakupów inwestycyjnych zakładów budżetowych
+622 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów
+realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora
+finansów publicznych
+623 Dotacje celowe z budżetu na finansowanie lub dofinansowanie kosztów
+realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych
+do sektora finansów publicznych
+624 Środki przekazywane z budżetu państwa na Fundusz Rozwoju
+Inwestycji Komunalnych
+626 Dotacje z funduszy celowych na finansowanie lub dofinansowanie
+kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek
+sektora finansów publicznych
+627 Dotacje z funduszy celowych na finansowanie lub dofinansowanie
+kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek
+niezaliczanych do sektora finansów publicznych
+628 Środki przekazane przez pozostałe jednostki zaliczane do sektora
+finansów publicznych na finansowanie lub dofinansowanie kosztów
+realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do
+sektora finansów publicznych
+629 Środki przekazane przez pozostałe jednostki zaliczane do sektora
+finansów publicznych na finansowanie lub dofinansowanie kosztów
+realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych
+do sektora finansów publicznych
+630 Dotacja celowa na pomoc finansową udzielaną między jednostkami
+samorządu terytorialnego na dofinansowanie własnych zadań
+inwestycyjnych i zakupów inwestycyjnych
+631 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne z zakresu administracji rządowej oraz innych zadań
+zleconych gminom ustawami
+632 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne realizowane przez gminę na podstawie porozumień
+z organami administracji rządowej
+633 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji
+i zakupów inwestycyjnych własnych gmin (związków gmin)
+641 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne z zakresu administracji rządowej oraz inne zadania
+zlecone ustawami realizowane przez powiat
+642 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne realizowane przez powiat na podstawie porozumień
+z organami administracji rządowej
+643 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji
+i zakupów inwestycyjnych własnych powiatu
+651 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne z zakresu administracji rządowej oraz inne zadania
+zlecone ustawami realizowane przez samorząd województwa
+652 Dotacje celowe przekazane z budżetu państwa na inwestycje i zakupy
+inwestycyjne realizowane przez samorząd województwa na podstawie
+porozumień z organami administracji rządowej
+653 Dotacje celowe przekazane z budżetu państwa na realizację inwestycji
+i zakupów inwestycyjnych własnych samorządu województwa
+661 Dotacje celowe przekazane gminie na inwestycje i zakupy inwestycyjne
+realizowane na podstawie porozumień (umów) między jednostkami
+samorządu terytorialnego
+662 Dotacje celowe przekazane dla powiatu na inwestycje i zakupy
+inwestycyjne realizowane na podstawie porozumień (umów) między
+jednostkami samorządu terytorialnego
+663 Dotacje celowe przekazane do samorządu województwa na inwestycje
+i zakupy inwestycyjne realizowane na podstawie porozumień (umów)
+między jednostkami samorządu terytorialnego
+664 Dotacja celowa przekazana jednostce samorządu terytorialnego przez
+inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą
+na inwestycje i zakupy inwestycyjne realizowane na podstawie
+porozumień (umów)
+665 Wpłaty gmin i powiatów na rzecz innych jednostek samorządu
+terytorialnego oraz związków gmin lub związków powiatów na
+dofinansowanie zadań inwestycyjnych i zakupów inwestycyjnych
+680 Rezerwy na inwestycje i zakupy inwestycyjne
+701 Rozliczenia z bankami
+801 Rozliczenia z bankami związane z obsługą długu publicznego
+802 Wypłaty z tytułu gwarancji i poręczeń
+806 Odsetki i opłaty od otrzymanych pożyczek i kredytów zagranicznych,
+odsetki i dyskonto od obligacji skarbowych Rzeczypospolitej Polskiej
+wyemitowanych za granicą oraz odsetki od obligacji Brady’ego
+807 Odsetki i dyskonto od krajowych skarbowych papierów wartościowych
+oraz od krajowych pożyczek i kredytów
+810 Rozliczenia z tytułu transakcji finansowych na instrumentach
+pochodnych, polegających na wymianie płatności odsetkowych
+811 Odsetki od samorządowych papierów wartościowych
+812 Odsetki od pożyczek udzielonych przez jednostkę samorządu
+terytorialnego
+813 Dyskonto od samorządowych papierów wartościowych
+814 Wydatki związane z finansowaniem programu F-16
+851 Wpłata obliczona na podstawie Dochodu Narodowego Brutto
+852 Wpłata obliczona, zgodnie z metodologią wynikającą z przepisów Unii
+Europejskiej, na podstawie podatku od towarów i usług
+853 Wpłata z tytułu udziału w opłatach celnych i opłatach rolnych
+854 Wpłata z tytułu udziału w opłatach cukrowych
+855 Różne rozliczenia finansowe
+856 Wpłata z tytułu finansowania rabatu brytyjskiego
+961 Wykup bonów skarbowych
+962 Pożyczki udzielone na finansowanie zadań realizowanych z udziałem
+środków pochodzących z budżetu Unii Europejskiej
+963 Spłaty pożyczek otrzymanych na finansowanie zadań realizowanych
+z udziałem środków pochodzących z budżetu Unii Europejskiej
+971 Wykup obligacji skarbowych sprzedanych na rynku krajowym
+976 Wykup obligacji skarbowych sprzedanych za granicą oraz obligacji
+Brady'ego
+982 Wykup innych papierów wartościowych
+985 Finansowanie reformy systemu ubezpieczeń społecznych
+987 Wypłaty rekompensat z tytułu okresowego niepodwyższania płac
+w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do
+emerytur i rent
+988 Finansowanie innych zadań z wpływów z prywatyzacji
+989 Instrumenty płynnościowe
+991 Udzielone pożyczki i kredyty
+992 Spłaty otrzymanych krajowych pożyczek i kredytów
+993 Spłaty otrzymanych zagranicznych pożyczek i kredytów
+994 Przelewy na rachunki lokat
+995 Rozchody z tytułu innych rozliczeń krajowych
+996 Rozchody z tytułu innych rozliczeń zagranicznych
+997 Rozliczenia z tytułu transakcji finansowych na instrumentach
+pochodnych, polegających na wymianie płatności kapitałowych
+998 Udostępnienie kredytów podmiotom krajowym ze środków pożyczek
+i kredytów zagranicznych
+999 Udziały w międzynarodowych organizacjach finansowych i związane
+z nimi darowizny na rzecz Międzynarodowego Stowarzyszenia Rozwoju
+(IDA)

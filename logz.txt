@@ -1,0 +1,215 @@
+I_2011(klasyfikacja_2010_12_01)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+257952
+
+II_2011(klasyfikacja_2010_12_01)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+257952
+
+
+IV_2010(klasyfikacja_2010_12_01_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+
+III_2010(klasyfikacja_2010_12_01_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+267857
+
+II_2010(klasyfikacja_2010_12_01_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+
+I_2010(klasyfikacja_2010_12_01_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+218708
+
+IV_2009(klasyfikajca_2009_07_22_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+258926
+
+III_2009(klasyfikajca_2009_07_22_mod)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+246266
+
+II_2009(klasyfikacja_2008_12_11)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+
+I_2009(klasyfikacja_2008_12_11)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+203849
+
+
+IV_2008(klasyfikacja_2008_12_11)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+251236
+
+----
+III_2008(klasyfikacja_2007_12_11)
+Rbn: N112KR -> N12KR
+Rbz: E1IF -> E2IF
+(brak Rbs28sd)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+238036
+
+II_2008(klasyfikacja_2007_12_11, nowe mapowanie:stare)
+(brak Rbn4, Rbnpg, Rbzpg)
+Step 2
+Step 2, undecoded values:  [u'85197Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'85497Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'85416Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'267Paragraf klasyfikacji bud\u017cetowej', u'01097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'75497Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'15097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'60097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'260Paragraf klasyfikacji bud\u017cetowej', u'75097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'01028Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'40097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'85397Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'471Paragraf klasyfikacji bud\u017cetowej', u'80197Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'71097Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'238Paragraf klasyfikacji bud\u017cetowej', u'266Paragraf klasyfikacji bud\u017cetowej', u'419Paragraf klasyfikacji bud\u017cetowej', u'92197Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'85297Rozdzia\u0142 klasyfikacji bud\u017cetowej', u'242Paragraf klasyfikacji bud\u017cetowej', u'55097Rozdzia\u0142 klasyfikacji bud\u017cetowej']
+Step 3
+TerytDecoder, old code:  0263
+220308
+
+I_2008(klasyfikacja_2007_12_11)
+(pozmieniane nazwy większości plików)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+193715
+
+IV_2007(klasyfikacja_2007_07_11_mod)
+(znowu poprawne nazwy plików)
+(używane Rbzpw i Rbzkz)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+243420
+
+III_2007(klasyfikacja_2007_03_09_mod)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+229757
+
+II_2007(klasyfikacja_2007_03_09_mod)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+215095
+
+I_2007(klasyfikacja_2007_03_09_mod)
+Step 2
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+189558
+
+IV_2006(klasyfikacja_2006_06_14_mod)
+(w zobowiązaniach został tylko Rbz)
+Step 2
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+239045
+
+III_2006(klasyfikacja_2006_06_14_mod)
+(do zobowiązań powróciły poprzednie pliki, brak należności: Rbn)
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+219205
+
+II_2006(klasyfikacja_2006_06_14)
+Step 2
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+151061
+
+I_2006(klasyfikacja_2005_11_28_mod)
+(kompletnie inne nazwy plików oraz pliki dbt)
+Axx -> Rbzpw
+Dxx -> Rb27s
+Exx -> Rbzkp
+Fxx -> Rbnds
+Kxx -> Rbzkz
+Lxx -> Rbzzu
+Wxx -> Rb28s
+Zxx -> Rbz
+Step 2
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  0263
+175423
+!!! Poprawiony wiersz 454603, PAR4 równe było O zamiast 0
+
+2005(klasyfikacja_2005_04_20_mod)
+Step 2
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  060608
+18928
+TerytDecoder, old code:  0263
+206499
+!!! Poprawiony wiersz 458727, PAR4 równe było O zamiast 0
+
+
+2004
+zostały tylko D(Rb27s), F(Rbnds), W(Rb28s), Z(Rbz)
+Step 2
+Step 2, undecoded values:  []
+Step 2, undecoded values:  []
+Step 3
+TerytDecoder, old code:  060608
+17689
+TerytDecoder, old code:  0263
+2816
+!!! Poprawiony wiersz 421325, PAR4 równe było O zamiast 0

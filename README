@@ -1,0 +1,15 @@
+If you want to use it:
+1.copy files from bestia to directories: yyyy_q/source and create directories yyyy_q/step1
+yyyy_q/step2 and yyyy_q/target(for 2004 and 2005 only yyyy)
+where yyyy - year number, q - quarter number
+e.g. 2011_1
+
+2. Uncomment correct all_files value.
+
+3. Change base_dir to yyyy_q.
+
+4. Change classification file for decoders: decoder_w and decoder_d.
+
+5. If columns mapping changes, change file that uses it: 'mapowanie_stare_csv.txt' or 'mapowanie_nowe_csv.txt'.
+
+6. To know, when you need to change decoder files or mapping file, use logz.txt(it's in polish).
